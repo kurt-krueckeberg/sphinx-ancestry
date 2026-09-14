@@ -91,5 +91,7 @@ parts:
 
   - caption: What Else the Church Register Reveal about Life
     chapters:
-      - file: diseases/rote-and-weisse-ruhr
-      - file: diseases/premature-death-of-young-and-infants
+      - file: diseases/disease-and-mortality
+        sections:
+          - file: diseases/rote-and-weisse-ruhr
+          - file: diseases/premature-death-of-young-and-infants
