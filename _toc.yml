@@ -88,4 +88,8 @@ parts:
           - file: hofname/hofname-in-church-registers
           - file: hofname/suranems-nonimmutable
           - file: hofname/hofname-vs-surname
+
+  - caption: What Else the Church Register Reveal about Life
+    chapters:
       - file: diseases/rote-and-weisse-ruhr
+      - file: diseases/premature-death-of-young-and-infants
