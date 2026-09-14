@@ -95,3 +95,4 @@ parts:
         sections:
           - file: diseases/rote-and-weisse-ruhr
           - file: diseases/premature-death-of-young-and-infants
+      - file: military/funeral-sermons-for-3-killed-at-the-battle-of-leuthen-petzen    
