@@ -19,7 +19,7 @@ images:
 - petzen-band1b-img96-top-half-left-page.png
 - petzen-band1b-img96-weiland-multi.png (which is the bottom half of the page)
 
-Theirtransliterations
+### Their Transliterations
 
 ```{div} doc-text Transliteration of petzen-band1b-img96-top-half-left-page.png
 ???mains Sohn zu Pezen den 18 Augusti begraben.
