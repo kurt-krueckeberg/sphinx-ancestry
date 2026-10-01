@@ -6,7 +6,7 @@ Get rid of compile errors. Simplify the structure.
 
 ## Consolidate Research Ideas/Plan Here
 
-- Move the files that are in `~/gen/m/research` to this site.
+- Move the files that are in `~/gen/m/research` to this site. WHY?
 
 - Review and rewrite them.
 
