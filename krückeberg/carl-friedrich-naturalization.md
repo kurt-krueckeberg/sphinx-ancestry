@@ -1,19 +1,18 @@
 # Carl Friedrich Krückeberg Naturalization
 
-These images are from the FamilySearch collection of [Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court](https://www.familysearch.org/en/search/catalog/1150012),
-which are only viewable at:
+These images are from the FamilySearch collection of images of the [Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court](https://www.familysearch.org/en/search/catalog/1150012),
+which re only viewable at FamilySearch Centers, such as the G[enealogy Center](https://genealogycenter.org). Other centers can be found using these links:
 
 - a [FamilySearch Center](https://www.familysearch.org/en/centers/about).
 - a [FamilySearch affiliate library](https://www.familysearch.org/en/affiliates/about).
 
-The index information below is found in found in the front the civil order book, where Johann Heinrich
-Krückeberg’s name is misspelled *Krickeberg, Charles*.
+The index information below is found in found in the front the civil order book, where Johann Heinrich Krückeberg’s name is misspelled *Krickeberg, Charles*.
 
 ```{image} images/Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_front_index.jpg
 :class: image-override
 ```
 
-It shows that the filing for his court appearance occurrs on page 13 of Civil Order Book C located in the volume
+It shows that the filing for his court appearance occurs on page 13 of Civil Order Book C located in the volume
 *Circuit Court civil order book, v. C-D, Aug. 1853-June 1873*. This is viewable at a FamilySearch Center such as the Genealogy Center.
 
 ```{image} images/Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg
