@@ -64,7 +64,7 @@ parts:
 
   - caption: Krückeberg — Johann Heinrich
     chapters:
-      - file: petzen/PET-B-1806a
+      - file: krückeberg/johann-heinrich/baptism
         title: 1806 Baptism
       - file: krückeberg/johann-heinrich-krueckeberg-naturalization
       - file: krückeberg/1853-school-enumeration-john-henry
