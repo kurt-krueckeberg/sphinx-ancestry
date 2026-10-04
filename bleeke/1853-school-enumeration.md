@@ -55,7 +55,7 @@ The entries for "Christian F. Bleakey" and "John  H Bleakey" are found on the 3t
   - 
 ```
 
-```{image} ../shared-surname-assets/images/page3-AdamsUnion1853SchoolEnum.jpg
+```{image} images/page3-AdamsUnion1853SchoolEnum.jpg
 :class: image-override
 ```
 
