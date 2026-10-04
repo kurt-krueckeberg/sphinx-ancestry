@@ -31,7 +31,7 @@ parts:
   - caption: Johann Heinrich Philipp Bleeke
     chapters:
       - file: bleeke/jhp-bleeke-land-patents
-      - file: bleeke/jhp-bleeke-1853-school-enumeration-bleeke
+      - file: bleeke/jhp-bleeke-1853-school-enumeration
 
   - caption: Carl Friedrich Bleeke
     chapters:
