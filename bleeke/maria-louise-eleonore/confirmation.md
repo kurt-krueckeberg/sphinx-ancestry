@@ -5,7 +5,7 @@ Louise Eleonore Bleeke <confirmation-zion-friedheim>`, daughter of Johann Heinri
 the **Zion Evangelical Lutheran Church Friedheim, 1839-1878, church register**.
 The church is located in Preble township, Adams County, Indiana.
 
-```{image} images/Maria_Louise_Eleonore_Bleeke_Confirmation_Record.jpg
+```{image} ../images/Maria_Louise_Eleonore_Bleeke_Confirmation_Record.jpg
 :class: image-override
 ```
 
