@@ -17,6 +17,6 @@ is available on {ref}`FamilySearch <cite>`. The passenger list line numbers and 
 
 (cite)=
 
-[cite] "New York, Passenger Lists, 1820-1920", FamilySearch ({external+https:doc}`https://www.familysearch.org/ark:1:1:QVPX-BS7F </61903/1:1:QVPX-BS7F>` : Tue Apr 15 11:02:26 UTC 2025),
+[cite] "New York, Passenger Lists, 1820-1920", FamilySearch ({external+https:doc}`C F Blecke, Migration • New York, Passenger Lists, 1820-1920 <https://www.familysearch.org/ark:/61903/1:1:QVPX-BS7F>` : Tue Apr 15 11:02:26 UTC 2025),
 Entry for C F Blecke, 1836.
 
