@@ -67,7 +67,7 @@ parts:
       - file: petzen/PET-B-1806a
         title: 1806 Baptism
       - file: krückeberg/johann-heinrich-krueckeberg-naturalization
-      - file: krückeberg/1853-school-enumeration
+      - file: krückeberg/1853-school-enumeration-john-henry
 
   - caption: Surname
     chapters:
