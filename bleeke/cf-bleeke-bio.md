@@ -1,6 +1,6 @@
 # Carl Friedrich Bleeke Family Background
 
-The FamilySearch digital version of [Portrait and biographical album of Wapello County, Iowa](../www.familysearch.org/library/books/idviewer/790470),
+The FamilySearch digital version of [Portrait and biographical album of Wapello County, Iowa](https://www.familysearch.org/library/books/idviewer/790470),
 pages 171-173, has a biography of the son of Carl Friedrich Bleeke, "Charles Blake" (Carl Bleeke), which describes
 the family’s immigrating to the U.S.
 
