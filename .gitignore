@@ -1,6 +1,7 @@
 # =========================
 # Python / virtualenv
 # =========================
+errors.txt
 build_errors.txt
 .venv/
 venv/
