@@ -4,7 +4,7 @@ The Indiana School Enumeration of 1853 lists the number of children in a family 
 the head of the household, who is listed under "Names Parents & Guardians".
 
 The entire four page, handwritten school enumeration for Union township, Adams County, Indiana can be
-downloaded [here](shared-surname-assets:attachment$AdamsUnionTwpSchoolEnum1853.pdf).
+downloaded [here](attachments/AdamsUnionTwpSchoolEnum1853.pdf).
 
 The entries for "Charles Krickenbarger" and "Henry Krickenbarger" are found on the 4th page.
 

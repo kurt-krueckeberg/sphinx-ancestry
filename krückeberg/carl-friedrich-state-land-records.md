@@ -6,7 +6,7 @@ State of Indiana Land Patent award to Carl Friedrich Krückeberg and to his heir
 :class: image-override
 ```
 
-Images from the PDF of [attachment$charles-dorothy-krueckeberg-mortgage-with-state-of-indiana.pdf](attachment$charles-dorothy-krueckeberg-mortgage-with-state-of-indiana.pdf).
+Images from the PDF of [attachment$charles-dorothy-krueckeberg-mortgage-with-state-of-indiana.pdf](attachments/charles-dorothy-krueckeberg-mortgage-with-state-of-indiana.pdf).
 
 TEST:
 
