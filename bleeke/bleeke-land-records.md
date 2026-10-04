@@ -19,12 +19,12 @@ The "ditto" quote marks below in the Section, Township and Range, columns repres
 which appear in the entries immediately above these.
 ```
 
-Tract Book Volume 2, Fort Wayne land office
+## Transcription of Left Page of Tract Book Volume 2, Fort Wayne land office
 
 ```{include} _table-artifacts/bleeke-land-records-table-01.html
 ```
 
-Tract Book Volume 2, Fort Wayne land office
+## Transcription of Right Page of Tract Book Volume 2, Fort Wayne land office
 
 ```{include} _table-artifacts/bleeke-land-records-table-02.html
 ```
