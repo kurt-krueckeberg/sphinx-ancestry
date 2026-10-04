@@ -23,11 +23,11 @@ It shows that the filing for his court appearance occurrs on page 526 of Civil O
 
 (imageNumberTODO1)=
 
-[imageNumberTODO1] "FamilySearch", unindexed collection of images, *FamilySearch* ({external+https:doc}`https://www.familysearch.org/TODO:Get_complete_url <//www.familysearch.org/TODO/Get_complete_url>` : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
+[imageNumberTODO1] "FamilySearch", unindexed collection of images, *FamilySearch* ([https://www.familysearch.org/TODO:Get_complete_url](https://www.familysearch.org/TODO/Get_complete_url) : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
 Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court > Circuit Court order book index, v. A-B (1836-post 1920) > Image No_TO_BE_ADDED of 622
 
 (imageNumberTODO2)=
 
-[imageNumberTODO2] "FamilySearch", unindexed collection of images, *FamilySearch* ({external+https:doc}`https://www.familysearch.org/TODO:Get_complete_url <//www.familysearch.org/TODO/Get_complete_url>` : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
+[imageNumberTODO2] "FamilySearch", unindexed collection of images, *FamilySearch* ([https://www.familysearch.org/TODO:Get_complete_url](https://www.familysearch.org/TODO/Get_complete_url) : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
 Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court > Circuit Court order book index, v. A-B (1836-post 1920) > Image No_TO_BE_ADDED of 622
 

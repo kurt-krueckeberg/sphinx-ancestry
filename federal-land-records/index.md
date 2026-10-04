@@ -155,7 +155,7 @@ Archives Order for Copies of Land Entry Files](https://www.archives.gov/forms/pd
   - [Rectangular Surveys](https://www.familysearch.org/en/wiki/Rectangular_Surveys)
   - [Land Entry Case Files](https://www.familysearch.org/en/wiki/Land_Entry_Case_Files)
 - Other
-  - This professional genealogist’s detailed guide with explanations is excellent:{external+https:doc}`Land Entry Papers: Federal Land Records at the National Archives <//acrobat.adobe.com/id/urn/aaid:sc:US:1a0b8119-d763-421a-983d-aff8dd98f663>`
+  - This professional genealogist’s detailed guide with explanations is excellent:[Land Entry Papers: Federal Land Records at the National Archives](https://acrobat.adobe.com/id/urn/aaid:sc:US:1a0b8119-d763-421a-983d-aff8dd98f663)
 - NARA information on:
   - [Accessing Land Entry Records](https://www.archives.gov/research/land/accessing-land-entry-files)
 

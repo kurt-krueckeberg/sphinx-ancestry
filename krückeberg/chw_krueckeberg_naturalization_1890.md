@@ -23,11 +23,11 @@ It shows that the filing for his court appearance occurrs on page 74 of Civil Or
 
 (imageNumberTODO1)=
 
-[imageNumberTODO1] "FamilySearch", unindexed collection of images, *FamilySearch* ({external+https:doc}`https://www.familysearch.org/TODO:Get_complete_url <//www.familysearch.org/TODO/Get_complete_url>` : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
+[imageNumberTODO1] "FamilySearch", unindexed collection of images, *FamilySearch* ([https://www.familysearch.org/TODO:Get_complete_url](https://www.familysearch.org/TODO/Get_complete_url) : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
 Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court > Circuit Court civil order book, volume Y, TOD_ADD_DATE_RANGE  > Image TO_BE_ADDED of TOTAL_TO_BE_ADDED
 
 (imageNumberTODO2)=
 
-[imageNumberTODO2] "FamilySearch", unindexed collection of images, *FamilySearch* ({external+https:doc}`https://www.familysearch.org/TODO:Get_complete_url <//www.familysearch.org/TODO/Get_complete_url>` : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
+[imageNumberTODO2] "FamilySearch", unindexed collection of images, *FamilySearch* ([https://www.familysearch.org/TODO:Get_complete_url](https://www.familysearch.org/TODO/Get_complete_url) : 19 February 2025), path:Search > Catalog > Adams County, Indiana, United States > Court Records >
 Adams County, Indiana, Circuit Court civil records, 1844-1921: Adams County, Indiana, Circuit Court > Circuit Court civil order book, volume Y, TOD_ADD_DATE_RANGE  > Image TO_BE_ADDED of TOTAL_TO_BE_ADDED
 
