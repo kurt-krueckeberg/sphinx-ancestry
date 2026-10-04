@@ -13,7 +13,8 @@ Krückeberg’s name is misspelled *Krickeberg, Charles*.
 :class: image-override
 ```
 
-It shows that the filing for his court appearance occurrs on page 13 of Civil Order Book C. This is found on [image number TO_BE_ADDED, page 13](imageNumberTODO).
+It shows that the filing for his court appearance occurrs on page 13 of Civil Order Book C located in the volume
+*Circuit Court civil order book, v. C-D, Aug. 1853-June 1873*. This is viewable at a FamilySearch Center such as the Genealogy Center.
 
 ```{image} images/Krickeberg_Charles_Adams_County_Circuit_Court_Civil_Order_Book_C_page_13.jpg
 :class: image-override
