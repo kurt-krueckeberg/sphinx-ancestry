@@ -48,7 +48,7 @@ The entries for "Charles Krickenbarger" and "Henry Krickenbarger" are found on t
   - No. 5
 ```
 
-```{image} ../shared-surname-assets/images/page4-AdamsUnion1853SchoolEnum.jpg
+```{image} images/page4-AdamsUnion1853SchoolEnum.jpg
 :class: image-override
 ```
 
