@@ -1,6 +1,6 @@
 # The Battle of Leuthen 
 
-On May 28, 1754, an enexperienced 22-year-old George Washington, then a lieutenant colonel in the Virginia
+On May 28, 1754, an inexperienced 22-year-old George Washington, then a lieutenant colonel in the Virginia
 militia, led an attack on a small French force at Jumonville Glen, in what is now southwestern Pennsylvania,
 near present-day Farmington and Uniontown.
 
