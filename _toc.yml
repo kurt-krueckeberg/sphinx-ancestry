@@ -58,7 +58,7 @@ parts:
 
   - caption: Krückeberg — Karl Heinrich Wilhelm
     chapters:
-      - file: krückeberg/chw-krueckeberg-familie-immigration
+      - file: krückeberg/chw-immigration
       - file: krückeberg/chw_krueckeberg_naturalization_oath_nov_4_1856
       - file: krückeberg/chw_krueckeberg_naturalization_1890
 
