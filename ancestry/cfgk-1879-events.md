@@ -1,5 +1,6 @@
 # Carl Friedrich Gottlieb Krückeberg (1879-1838) Family Events
 
+(event-table-petzen-cfg-krueckeberg-family)=
 ## Event Table for the Carl Friedrich Gottlieb Krückeberg Family
 
 Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
