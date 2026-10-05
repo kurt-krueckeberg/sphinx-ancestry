@@ -4,9 +4,33 @@ root: index
 parts:
   - caption: Ancestry
     chapters:
+      - file: ancestry/index
+      - file: ancestry/event-tables
+      - file: ancestry/cfk-branch
+        title: "Branch I: Carl Friedrich Krückeberg (b. 1807) Pedigree"
+        sections:
+          - file: ancestry/cfk-1807-events
+          - file: ancestry/cfgk-1879-events
+      - file: ancestry/jhk-branch
+        title: "Branch II: Johann Heinrich Krückeberg (1806-1879) Pedigree"
+        sections:
+          - file: ancestry/jhk-1806-events
+          - file: ancestry/jobst-hk-1765-events
+          - file: ancestry/jhk-1767-events
+      - file: ancestry/merging-the-two-lines
+        sections:
+          - file: ancestry/no-10-berenbusch-residents
+          - file: ancestry/two-jobsts
+          - file: ancestry/one-jobst
+          - file: ancestry/one-or-two-jobst-heinrichs
+          - file: ancestry/who-is-the-father-of-jobst-heinrich
+          - file: ancestry/jhk-1744-events
       - file: ancestry/proof-arg-philippine-eleonore-werkmeister
-      - file: ancestry/johann-heinrich-krueckeberg-identity-problem
-      - file: ancestry/soldier-weiland
+
+  - caption: Ancestry Studies
+    chapters:
+      - file: ancestry-studies/johann-heinrich-krueckeberg-identity-problem
+      - file: ancestry-studies/soldier-weiland
 
   - caption: Federal Land Records
     chapters:
