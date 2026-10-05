@@ -1,6 +1,6 @@
 # Plan
 
-Convert the ~/adoc-to-myst/adoc2jb1 script to convert AsciiDoc tables with
+Change the conversion logic in `~/adoc-to-myst/adoc2jb1` to convert AsciiDoc tables with
 cells that span rows or columns to flat-tables rather than raw html
 tables.
 
