@@ -2,7 +2,7 @@
 
 From Johann Heinrich Krueckeberg’s
 {external+immanuel:doc}`Immanuel Lutheran
-biography <ROOT/DEC-BIO-Krueckeberg-01>`, we are given the names of his parents, who immigrated to
+biography <immanuel/DEC-BIO-Krueckeberg-01>`, we are given the names of his parents, who immigrated to
 Union, Adams CO IN in 1849, and we are provided the information of all
 church ceremonies involving him, his wife and his children. We are also
 provided the name of the parish, Petzen.
@@ -11,7 +11,7 @@ We likewise know the same information about Carl Friedrichm Krückeberg
 from the ["family record of the
 emigrant Carl Friedrich Krückeberg"](../derived-church-records/FS-CFK.md). We also have the Immanuel Lutheran
 {external+immanuel:doc}`biography of his son, Carl
-Heinrich Wilhelm <ROOT/DEC-BIO-Krueckeberg-02>`, who was 15 when he arrived in the U.S.
+Heinrich Wilhelm <immanuel/DEC-BIO-Krueckeberg-02>`, who was 15 when he arrived in the U.S.
 
 Using these document we can construct the family of origin of both Johann Heinrich
 and Carl Friedrich Krückebergusing the Petzen church records.
@@ -41,8 +41,7 @@ at no. 10 Berenbusch <139/krueckeberg-petition-to-sell>` explaining
 Although his given names are not mentioned, and he is only identified as "Colon
 Krückeberg" on the case file cover and throughout its documents, we know this is
 Johann Heinrich because it was he and his family who emigrated from Berenbusch
-in the fall of 1849 and [settle
-in Union township, Adams CO, Indiana](../immanuel/DEC-BIO-Krueckeberg-01.md).
+in the fall of 1849 and {external+immanuel:doc}`settle in Union township, Adams CO, Indiana <immanuel/DEC-BIO-Krueckeberg-01>`.
 
 TODO: Is this redundant? Should it be mentioned—​or was it already—​above?
 The Immanuel Lutheran biography gives his correct birth date, parents and baptismal

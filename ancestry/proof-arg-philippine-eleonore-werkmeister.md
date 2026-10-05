@@ -27,7 +27,7 @@ surname attribution.
 
 This summarizes the key findings.
 
-1. The [Marriage Record (13 March 1803, Petzen Parish)](../petzen/PET-M-1803a.md) when
+1. The {external+genealogy:doc}`Marriage Record (13 March 1803, Petzen Parish) <petzen/PET-M-1803a>` when
 Carl Friedrich Gottlieb Krückeberg married **Jungfrau Philippine Eleonore Werkmeister** of **Evesen No. 11**.
 tells us:
   ```{list-table} Facts for March 13, 1803 Marriage
@@ -56,18 +56,18 @@ tells us:
     - Date of Death
   * - **Groom**
     - Carl Friedrich Gottlieb Krückeberg
-    - [18 April 1779](../petzen/PET-B-1779b.md)
+    - {external+genealogy:doc}`18 April 1779 <petzen/PET-B-1779b>`
     - 13 May 1838
   * - **Bride**
     - Philippine Eleonore Werkmeister
-    - [4 May 1783](../petzen/PET-B-1783a.md)
+    - {external+genealogy:doc}`4 May 1783 <petzen/PET-B-1783a>`
     - 16 Dec. 1840
   ```
   Key finding: The **Nachtrag (addendum)** to this record for **Philippine Eleonore Werkmeister** records
 her baptism and death dates as:
   - Baptism date: **4 May 1783**
   - Death date: **16 December 1840**
-2. The [Baptism of First Child (7 December 1803, Petzen Parish)](../petzen/PET-B-1803c.md)
+2. The {external+genealogy:doc}`Baptism of First Child (7 December 1803, Petzen Parish) <petzen/PET-B-1803c>`
 Christine Philippine Krückeberg tells us:
   ```{list-table} Family Group
   :header-rows: 1
@@ -96,7 +96,7 @@ Christine Philippine Krückeberg tells us:
   ```
   Key finding: The 1st daughter of Carl Friedrich, Christine Philippine, is by his wife **Philippine née Werkmeister**.
 She is the mother of their first child.
-3. [Baptism of Second Child (24 May 1807)](../petzen/PET-B-1807a.md)
+3. {external+genealogy:doc}`Baptism of Second Child (24 May 1807) <petzen/PET-B-1807a>`
 tells us:
   ```{list-table} Family Group Facts
   :header-rows: 1
@@ -151,7 +151,7 @@ tells us:
   ```
   Key finding: Carl Friedrich Krückeberg’s baptism lists the mother as **Philippine Lenore geb. Blecken aus N. 11 in Evesen**.
 While the mother’s maiden is now **Blecken**, her given name and residence prior to marriage remain the same.
-4. [Baptism of Third Child (2 December 1812)](../petzen/PET-B-1812a.md)
+4. {external+genealogy:doc}`Baptism of Third Child (2 December 1812) <petzen/PET-B-1812a>`
   ```{list-table} Baptism Facts
   :header-rows: 1
   
@@ -200,14 +200,14 @@ While the mother’s maiden is now **Blecken**, her given name and residence pri
   
   * - Baptism
     - Marriage
-  * - [18 Apr. 1779](../petzen/PET-B-1779b.md)
-    - [13 Mar. 1803](../petzen/PET-M-1803a.md)
+  * - {external+genealogy:doc}`18 Apr. 1779 <petzen/PET-B-1779b>`
+    - {external+genealogy:doc}`13 Mar. 1803 <petzen/PET-M-1803a>`
   ```
   ```{list-table} Nachträge for Philippine Leonore née Bleeke, mother of Carloline Dorothee Krückeberg
   :header-rows: 1
   
   * - Baptism
-  * - [4 May 1783](../petzen/PET-B-1783a.md)
+  * - {external+genealogy:doc}`4 May 1783 <petzen/PET-B-1783a>`
   ```
   Key finding: Caroline Dorothee Krückeberg’s baptism also lists the mother as **Philippine Leonore geb. Blecken aus N. 11 in Evesen**.
 An addendum below this entry states: **“get. 4.5.83”** (baptized 4 May 1783). Thus, while the maiden name is recorded for a 2nd time as
@@ -216,7 +216,7 @@ An addendum below this entry states: **“get. 4.5.83”** (baptized 4 May 1783)
   - her residence prior to marriage, and
   - her baptism date
   remain unchanged.
-5. [Baptism Record (4 May 1783, Evesen Parish)](../petzen/PET-B-1783a.md) of
+5. {external+genealogy:doc}`Baptism Record (4 May 1783, Evesen Parish) <petzen/PET-B-1783a>` of
 **Philippina Eleonore Werkmeister**, daughter of **Tönnies Werkmeister** of **Evesen No. 11** tells us:
   ```{code-block} text
   

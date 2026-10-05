@@ -5,13 +5,13 @@ named Jobst Heinrich Krückeberg according to the  administrative records.
 However, the absence of corresponding parish records for such an individual
 and the fact that Carl Friedrich Gottlieb Krückeberg, who we know
 
-- was a Schneider and Einlieger at no. 14 Berenbusch on 14 May 1807, according to [1807 Carl Friedrich Krückeberg Baptism](../petzen/PET-B-1807a.md)
-- was an Einlieger in Evesen in 1803, according to [1803 Christine Philippine Krückeberg Birth](../petzen/PET-B-1803c.md)
+- was a Schneider and Einlieger at no. 14 Berenbusch on 14 May 1807, according to {external+genealogy:doc}`1807 Carl Friedrich Krückeberg Baptism <petzen/PET-B-1807a>`
+- was an Einlieger in Evesen in 1803, according to {external+genealogy:doc}`1803 Christine Philippine Krückeberg Birth <petzen/PET-B-1803c>`
 - whose wife was from no. 11 Evesen, according to:
-  - [1803 Carl Friedrich Gottlieb Krückeberg Marriage](../petzen/PET-M-1803a.md)
-  - [1783 Phlippina Eleonore Werkmeister Baptism](../petzen/PET-B-1783a.md)
+  - {external+genealogy:doc}`1803 Carl Friedrich Gottlieb Krückeberg Marriage <petzen/PET-M-1803a>`
+  - {external+genealogy:doc}`1783 Phlippina Eleonore Werkmeister Baptism <petzen/PET-B-1783a>`
 - whose only son, Carl Friedrich, had as a **baptismal sponsor Hans Heinirch
-Wilharm**, and the [baptism record](../petzen/PET-B-1807a.md) tells us
+Wilharm**, and the {external+genealogy:doc}`baptism record <petzen/PET-B-1807a>` tells us
 he resided at no. 11 Evesen.
 - And Hans Heinrich Wilharm is Carl Friedrich Gottlieb’s half
 brother-in-law
@@ -23,16 +23,16 @@ Friedrich Gottlieb.
 ## Hans Heinrich Wilharm, no. 11 Evesen, was Carl Friedrich Gottlieb’s Brother-in-law
 
 When Carl Friedrich Gottlieb Krückeberg’s son, Carl Friedrich, was baptized
-on [May 24, 1807](../petzen/PET-B-1807a.md), Hans Heinrich Wilharm was
+on {external+genealogy:doc}`May 24, 1807 <petzen/PET-B-1807a>`, Hans Heinrich Wilharm was
 one of his baptismal sponsors. Hans Heinrich Wilharm was related by
 marriage to Carl Friedrich Gottlieb Krückeberg. He was his brother-in-law,
 more specifically his half brother-in-law.
 
 To understand this, we begin with the March 13, 1803,
-[marriage](../petzen/PET-M-1803a.md) of Carl Friedrich Gottlieb
+{external+genealogy:doc}`marriage <petzen/PET-M-1803a>` of Carl Friedrich Gottlieb
 Krückeberg of no. 10 Berenbusch to Philippine Eleonore Werkmeister of no.
 11 Evesen, whose mother was Ilse Maria. Ilse Maria’s name appears as  **Anna
-Ilsabey Möller** in her  1754 [confirmation record](../petzen/PET-C-1754a.md).
+Ilsabey Möller** in her  1754 {external+genealogy:doc}`confirmation record <petzen/PET-C-1754a>`.
 **Ilsabey** is a regional, phonetic compound form of Elisabeth (Ilsa/Ilse +
 bey/beÿ), and **Ilse** and **Ilsa** are shorten forms derived from its first
 element.
@@ -45,11 +45,11 @@ By examinng the birth records of her children, we find her complete given name
 was Anna Maria Elisabeth.
 
 When Ilse Marie married Philippine Eleonore’s father, Heinrich Tönnes
-Werkmeister, on [June 11, 1780](../petzen/PET-M-1780a.md), it was her second
-marraige. The [marriage record](../petzen/PET-M-1780a.md) lists her as
+Werkmeister, on {external+genealogy:doc}`June 11, 1780 <petzen/PET-M-1780a>`, it was her second
+marraige. The {external+genealogy:doc}`marriage record <petzen/PET-M-1780a>` lists her as
 **Maria Ilse Maria née Möller, widow of Bleke**.
 This previous marriage to Johann Bleke, no. 11 Evesen, ccurred on
-[February 18, 1770](../petzen/PET-M-1770a.md). The births of their four children
+{external+genealogy:doc}`February 18, 1770 <petzen/PET-M-1770a>`. The births of their four children
 shows the family resided at no. 11 Evesen:
 
 ```{list-table} Children of Johann Heinrich Bleke and Anna Maria Elisabeth Möller
@@ -61,52 +61,50 @@ shows the family resided at no. 11 Evesen:
   - Father
   - Mother
 * - Johann Heinrich
-  - [7 Oct. 1770](../petzen/PET-B-1770a.md)
+  - {external+genealogy:doc}`7 Oct. 1770 <petzen/PET-B-1770a>`
   - no. 11 Evesen
   - Johann Heinrich Blecken
   - Anna Maria Elisabeth Möller
 * - Anna Maria Phlippina
-  - [11 July 1773](../petzen/PET-B-1773a.md)
+  - {external+genealogy:doc}`11 July 1773 <petzen/PET-B-1773a>`
   - no. 11 Evesen
   - Johann Heinrich Blecken
   - Anna Marie Elisabeth Möller
 * - Anna Ilsa Margaretha
-  - [17 Dec. 1775](../petzen/PET-B-1775c.md)
+  - {external+genealogy:doc}`17 Dec. 1775 <petzen/PET-B-1775c>`
   - no. 11 Evesen
   - Johann Heinrich Bleken
   - Ilse Margarethe Elisabeth Möller
 * - Sophia Ernestine
-  - [11 Sep. 1778](../petzen/PET-B-1778b.md)
+  - {external+genealogy:doc}`11 Sep. 1778 <petzen/PET-B-1778b>`
   - Evesen
   - Johann Heinrich Bleken
   - Anne Ilse Maria Möller
 ```
 
-On [October 10, 1779](../petzen/PET-D-1779a.md), Johann Heinrich Bleke
+On {external+genealogy:doc}`October 10, 1779 <petzen/PET-D-1779a>`, Johann Heinrich Bleke
 age only 34 died of a "bösartige Fieber", a malignant fever. His widow, Anna
-Ilsabey Möller, [married Heinrich Tönnis
-Werkmeiter](../petzen/PET-M-1780a.md) the next year.
+Ilsabey Möller, {external+genealogy:doc}`married Heinrich Tönnis Werkmeiter <petzen/PET-M-1780a>` the next year.
 
 As mentioned above, Ilse Maria’s second marriage produced a daughter,
 Philippina Eleonore Werkmeister, who was
-[baptized on May 4, 1783](../petzen/PET-B-1783a.md). Twenty years later
+{external+genealogy:doc}`baptized on May 4, 1783 <petzen/PET-B-1783a>`. Twenty years later
 she married Carl Friedrich Gottlieb Krückeberg on
-[March 13, 1803](../petzen/PET-M-1803a.md). From the marriage
+{external+genealogy:doc}`March 13, 1803 <petzen/PET-M-1803a>`. From the marriage
 record we learn she had been living at no. 11 Evesen, and he at no. 10
 Berenbusch.
 
 Hans Heinrich Wilharm also married a daughter of Ilse Marie from her first
-marraige to Johann Heinrich Bleke. On [May 8,
-1796](../petzen/PET-M-1796a.md), he married her first daughter, Anne Marie Philippine Blecke of no.
+marraige to Johann Heinrich Bleke. On {external+genealogy:doc}`May 8, 1796 <petzen/PET-M-1796a>`, he married her first daughter, Anne Marie Philippine Blecke of no.
 11 Evesen, who was the half-sister of Philippine Eleonore.
 
 ```{image} images/sophie-ernestine-bleke-wilharm-tree.jpg
 :class: image-override
 ```
 
-The day after the [birth of their first child](../petzen/PET-B-1797a.md),
-on April 10, 1797, she [died](../petzen/PET-D-1797a.md). And later that
-same year, on [August 27, 1797](../petzen/PET-M-1797a.md), Hans Heinrich
+The day after the {external+genealogy:doc}`birth of their first child <petzen/PET-B-1797a>`,
+on April 10, 1797, she {external+genealogy:doc}`died <petzen/PET-D-1797a>`. And later that
+same year, on {external+genealogy:doc}`August 27, 1797 <petzen/PET-M-1797a>`, Hans Heinrich
 Wilharm married her younger sister, Sophie Ernestine Blecke, who had
 been living with her late sister and brother-in-law at no. 11 Evesen. She,
 too, was the half-sister of Philippine Eleonore nee Werkmeister Krückeberg,
@@ -116,8 +114,7 @@ brother-in-laws.
 ## Otto Anmton Vogt, Hans Heinrich Wilharm’s second Brother-in-Law
 
 Another brother-in-law of Hans Heich Wilharm was Otto Anton Vogt (1785-?)
-who, on May 10, 1812, [married Anna Ilse Margarethe Blecken
-(1775-1846)](../petzen/PET-M-1812d.md), the 2nd child of the lkate Johann Heinrich Blecken (1746-1779). Prior
+who, on May 10, 1812, {external+genealogy:doc}`married Anna Ilse Margarethe Blecken (1775-1846) <petzen/PET-M-1812d>`, the 2nd child of the lkate Johann Heinrich Blecken (1746-1779). Prior
 to their marriage, she also had lived at no. 11 in Evesen. He was 27 years old and she
 was 36. She had a grown daughter who had been born out of wedlock.
 
@@ -127,13 +124,11 @@ Jobst Heinrich Krückeberg and no. 18 Berenbusch.
 ## Another Critical Piece of Information
 
 Carl Friedrich Gottlieb Krückeberg’s wife, Philippine Eleonore Werkmeister,
-was, according to their [March 12, 1803,
-marriage record](../petzen/PET-M-1803a.md), from **no. 11 Evesen**.
+was, according to their {external+genealogy:doc}`March 12, 1803, marriage record <petzen/PET-M-1803a>`, from **no. 11 Evesen**.
 
 According to {external+nla:doc}`nla:146:doc1 <146/doc1>`, we know that in September 1808 **no.
 11 Evesen** was the home of the Wilharms. We know his complete name to be
-**Hans Heinrich Wilharm** because the [baptism record
-of Carl Friedrich Gottlieb’s only son, Carl Friedrich](../petzen/PET-B-1807a.md), lists **Hans Heinrich
+**Hans Heinrich Wilharm** because the {external+genealogy:doc}`baptism record of Carl Friedrich Gottlieb’s only son, Carl Friedrich <petzen/PET-B-1807a>`, lists **Hans Heinrich
 Wilharm of no. 11 Evesen** as a baptismal sponsor.
 
 ### Its Significance

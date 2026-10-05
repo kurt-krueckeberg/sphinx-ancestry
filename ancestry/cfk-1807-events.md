@@ -228,7 +228,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
   - 
   - 
   - Father: Einlieger
-  - [1803 Christine Philippine Krückeberg Birth](../petzen/PET-B-1803c.md)
+  - {external+genealogy:doc}`1803 Christine Philippine Krückeberg Birth <petzen/PET-B-1803c>`
 * - Ba
   - 11 Dec. 1803
   - Christine Philippine Krückeberg
@@ -240,7 +240,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
   - Mrs. Kruckeberg and
     Weyland from Berenbusch
   - Father: Einlieger
-  - [1803 Christine Philippine Krückeberg Birth](../petzen/PET-B-1803c.md)
+  - {external+genealogy:doc}`1803 Christine Philippine Krückeberg Birth <petzen/PET-B-1803c>`
 * - B
   - 21 May 1807
   - Carl Friedrich Krückeberg
@@ -256,7 +256,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
     Father is **Einlieger**
     
     Mother from # 11 Evesen
-  - [1807 Carl Friedrich Krückeberg Baptism](../petzen/PET-B-1807a.md)
+  - {external+genealogy:doc}`1807 Carl Friedrich Krückeberg Baptism <petzen/PET-B-1807a>`
 * - Ba
   - 24 May 1807
   - Carl Friedrich Krückeberg
@@ -276,7 +276,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
   - Father is **Einlieger**
     
     Mother from # 11 Evesen
-  - [1807 Carl Friedrich Krückeberg Baptism](../petzen/PET-B-1807a.md)
+  - {external+genealogy:doc}`1807 Carl Friedrich Krückeberg Baptism <petzen/PET-B-1807a>`
 * - B
   - 2 Dec. 1812
   - Caroline Dorothee Krückeberg
@@ -288,7 +288,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
   - 
   - 3rd child, 2nd daughter
   - [Nachträge exists for her and her father](nachtraege)
-  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - {external+genealogy:doc}`1812 Carloline Dorothee Krückeberg Baptism <petzen/PET-B-1812a>`
 * - Ba
   - 6 Dec. 1812
   - Caroline Dorothee Krückeberg
@@ -303,7 +303,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
                       
                         Caroline Charolitte Sieckmeier, n. 4 in Evesen.
   - [Nachträge exists for her and her father](nachtraege)
-  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - {external+genealogy:doc}`1812 Carloline Dorothee Krückeberg Baptism <petzen/PET-B-1812a>`
 * - C
   - 6 April 1817
   - Christine Philippine Krückeberg
@@ -314,7 +314,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
   - 
   - 
   - Confirmed: Quasimodogeniti Sunday, 1817
-  - [1817 Christine Philippine Krückeberg Confirmation](../petzen/PET-C-1817a.md)
+  - {external+genealogy:doc}`1817 Christine Philippine Krückeberg Confirmation <petzen/PET-C-1817a>`
 * - C
   - 8 April 1821
   - Carl Friedrich Krückeberg
@@ -325,7 +325,7 @@ Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg
   - 
   - 
   - Confirmed: Quasimodogeniti Sunday, 1821
-  - [1821 Carl Friedrich Krückeberg Confirmation](../petzen/PET-C-1821a.md)
+  - {external+genealogy:doc}`1821 Carl Friedrich Krückeberg Confirmation <petzen/PET-C-1821a>`
 ```
 
 **†** — The **Bleeken** surname for Phlippine Leonore is in error. See
@@ -358,22 +358,22 @@ further births to this couples were found recorded, we have the entire family.
   - Referenced Ceremony
   - Nachtrag Text
 * - Carl Friedrich Gottlieb Krückeberg
-  - [1779 Carl Friderich Gottlieb Kruckeberg Baptism](../petzen/PET-B-1779b.md)
+  - {external+genealogy:doc}`1779 Carl Friderich Gottlieb Kruckeberg Baptism <petzen/PET-B-1779b>`
   - Baptism
   - „get. 18.4.1779“
     (baptized 18 Mar. 1779)
 * - Carl Friedrich Gottlieb Krückeberg
-  - [1779 Carl Friderich Gottlieb Kruckeberg Baptism](../petzen/PET-B-1779b.md)
+  - {external+genealogy:doc}`1779 Carl Friderich Gottlieb Kruckeberg Baptism <petzen/PET-B-1779b>`
   - Marriage
   - „cop. 13.3.03“
     (married 13 Mar. 1803)
 * - Caroline Dorothee Krückeberg
-  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - {external+genealogy:doc}`1812 Carloline Dorothee Krückeberg Baptism <petzen/PET-B-1812a>`
   - Marriage
   - „cop. 25.10.35“
     (married 15 Oct. 1835)
 * - Caroline Dorothee Krückeberg
-  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - {external+genealogy:doc}`1812 Carloline Dorothee Krückeberg Baptism <petzen/PET-B-1812a>`
   - Death
   - „gest.14.12.69“
     (died 14 Dec. 1869)

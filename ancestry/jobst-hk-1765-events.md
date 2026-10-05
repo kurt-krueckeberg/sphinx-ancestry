@@ -2,8 +2,8 @@
 
 ## What was the Family of Origin of Johann Heinrich Krückeberg (1807-1879)?
 
-The Immanuel Lutheran biography of {external+immanuel:doc}`Johann Heinrich Krückeberg <ROOT/DEC-BIO-Krueckeberg-01>` serves
-as a cross reference to his origianl Petzen [1806 Johann Heinrich Krückeberg Baptism](../petzen/PET-B-1806a.md) record, which confirms his 12 August 1806
+The Immanuel Lutheran biography of {external+immanuel:doc}`Johann Heinrich Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` serves
+as a cross reference to his origianl Petzen {external+genealogy:doc}`1806 Johann Heinrich Krückeberg Baptism <petzen/PET-B-1806a>` record, which confirms his 12 August 1806
 birthdate and further clarifies the complete names of his parents and baptism sponsors, supplies the family’s residence
 number of #10 in Berenbusch, as well as his father’s occupation.
 
@@ -29,7 +29,7 @@ number of #10 in Berenbusch, as well as his father’s occupation.
                       C Friedrich Tegtmeier, from Meinsen
 ```
 
-His origianl Petzen [1820 Johann Heinrich Krückeberg Confirmation](../petzen/PET-C-1820a.md) record shows the family still resides in Bärenbusch.
+His origianl Petzen {external+genealogy:doc}`1820 Johann Heinrich Krückeberg Confirmation <petzen/PET-C-1820a>` record shows the family still resides in Bärenbusch.
 
 ## Constructing the Jobst Heinrich Krückeberg Family
 
@@ -37,17 +37,17 @@ Using these details as our guide, we look for all records of Johann
 Heinrich Krückeberg’s family of origin.
 
 We find that his father, Jobst Heinrich Krückeberg (1806-1879), had four
-children. His [death and burial record](../petzen/PET-D-1822b.md) of Oct.
+children. His {external+genealogy:doc}`death and burial record <petzen/PET-D-1822b>` of Oct.
 1822 states that his survivors were: **"a widow and four children, namely
 three daughters and one son".** The birth record of his last child and first
 son, Johann Heinrich, states that he is the **"fourth child and the first
 son"**. The four children documented children of Jobst Heinrich in the
 Petzen church records are:
 
-1. [Philippine Carolina Christine, born 1 Feb. 1792](../petzen/PET-B-1792a.md)
-2. [Anne Christina Eleonore, born 14 Feb. 1798](../petzen/PET-B-1798a.md)
-3. [Sophie Wilhelmine, born 24 Jan 1803](../petzen/PET-B-1803a.md)
-4. [Johann Heinrich, born 12 Aug 1806](../petzen/PET-B-1806a.md)
+1. {external+genealogy:doc}`Philippine Carolina Christine, born 1 Feb. 1792 <petzen/PET-B-1792a>`
+2. {external+genealogy:doc}`Anne Christina Eleonore, born 14 Feb. 1798 <petzen/PET-B-1798a>`
+3. {external+genealogy:doc}`Sophie Wilhelmine, born 24 Jan 1803 <petzen/PET-B-1803a>`
+4. {external+genealogy:doc}`Johann Heinrich, born 12 Aug 1806 <petzen/PET-B-1806a>`
 
 We know from the {external+nla:doc}`second document <146/doc2>` in the Rentkammer
 (fiscal chamber) case file
@@ -67,8 +67,8 @@ and local land management.
 
 We know that by 1808 Jobst Heinrich was the holder, the Colon, of no. 10
 Berenbusch. His father is mentioned as a Leibzüchter in his
-[1802 remarriage](../petzen/PET-M-1802b.md) and in his
-[1822 burial record](../petzen/PET-D-1822a.md). On May 29, 1808, Jobst
+{external+genealogy:doc}`1802 remarriage <petzen/PET-M-1802b>` and in his
+{external+genealogy:doc}`1822 burial record <petzen/PET-D-1822a>`. On May 29, 1808, Jobst
 Heinrich petitioned the Rentkammer to enlarge his yard and garden with
 adjacent land. He is described as a Colon on the
 {external+nla:doc}`case file cover <1237/cover>` and in several document (like
@@ -153,7 +153,7 @@ sponsor. She is still alive! Who would this be?
   - **Wife:** from Menssen (Meinsen) # 41
     
     **Wife:** died in 1849
-  - [1790 Jobst Heinrich Kruckeberg Marriage](../petzen/PET-M-1790c.md)
+  - {external+genealogy:doc}`1790 Jobst Heinrich Kruckeberg Marriage <petzen/PET-M-1790c>`
 * - B
   - 1 Feb. 1792
   - Philippine Caroline Christine
@@ -164,7 +164,7 @@ sponsor. She is still alive! Who would this be?
   - Shoemaker
   - 
   - We are not told if they are tenants.
-  - [1792 Philippine Caroline Christine Kruckeberg Baptism](../petzen/PET-B-1792a.md)
+  - {external+genealogy:doc}`1792 Philippine Caroline Christine Kruckeberg Baptism <petzen/PET-B-1792a>`
 * - Ba
   - 3 Feb. 1792
   - Philippine Caroline Christine
@@ -178,7 +178,7 @@ sponsor. She is still alive! Who would this be?
                       
                         the wife of Fahlsing of the shepards from Evensen
   - We are not told if they are tenants.
-  - [1792 Philippine Caroline Christine Kruckeberg Baptism](../petzen/PET-B-1792a.md)
+  - {external+genealogy:doc}`1792 Philippine Caroline Christine Kruckeberg Baptism <petzen/PET-B-1792a>`
 * - B
   - 14 Jan. 1798
   - Anne Christine Eleonore Krückeberg
@@ -189,7 +189,7 @@ sponsor. She is still alive! Who would this be?
   - 
   - 
   - 
-  - [1798 Anne Christine Eleonore Krückeberg Birth](../petzen/PET-B-1798a.md)
+  - {external+genealogy:doc}`1798 Anne Christine Eleonore Krückeberg Birth <petzen/PET-B-1798a>`
 * - P
   - 29 May 1798
     to 1810
@@ -222,7 +222,7 @@ sponsor. She is still alive! Who would this be?
                       
                       
                         Katharine Margharethe Kuhlmann, No. 3 Evesen
-  - [1798 Anne Christine Eleonore Krückeberg Birth](../petzen/PET-B-1798a.md)
+  - {external+genealogy:doc}`1798 Anne Christine Eleonore Krückeberg Birth <petzen/PET-B-1798a>`
 * - B
   - 24 Jan 1803
   - Sophie Wilhelmine Krückeberg
@@ -234,7 +234,7 @@ sponsor. She is still alive! Who would this be?
   - 
   - 
   - **Father’s Stand is Hausherr**
-  - [1803 Sophie Wilhelmine Krückeberg Birth](../petzen/PET-B-1803a.md)
+  - {external+genealogy:doc}`1803 Sophie Wilhelmine Krückeberg Birth <petzen/PET-B-1803a>`
 * - Ba
   - 30 Jan 1803
   - Sophie Wilhelmine Krückeberg
@@ -246,7 +246,7 @@ sponsor. She is still alive! Who would this be?
   - 
   -                     Ms. Caroline Aldag, n. 4 Evesen
   - **Father’s Stand is Hausherr**
-  - [1803 Sophie Wilhelmine Krückeberg Birth](../petzen/PET-B-1803a.md)
+  - {external+genealogy:doc}`1803 Sophie Wilhelmine Krückeberg Birth <petzen/PET-B-1803a>`
 * - C
   - 21 Apr 1805
   - Philippine Caroline Christine
@@ -257,7 +257,7 @@ sponsor. She is still alive! Who would this be?
   - 
   - 
   - The birthdate given of 9 Sep. 1791 is incorrect
-  - [1805 Philippine Caroline Christine Krückeberg Confirmation](../petzen/PET-C-1805a.md)
+  - {external+genealogy:doc}`1805 Philippine Caroline Christine Krückeberg Confirmation <petzen/PET-C-1805a>`
 * - B
   - 4 Aug. 1806
   - Johann Heinrich Krückeberg
@@ -270,7 +270,7 @@ sponsor. She is still alive! Who would this be?
   - 4th child, 1st son
     
     Father is a Guild Master
-  - [1806 Johann Heinrich Krückeberg Baptism](../petzen/PET-B-1806a.md)
+  - {external+genealogy:doc}`1806 Johann Heinrich Krückeberg Baptism <petzen/PET-B-1806a>`
 * - Ba
   - 17 Aug. 1806
   - Johann Heinrich Krückeberg
@@ -284,7 +284,7 @@ sponsor. She is still alive! Who would this be?
                       
                         C Friedrich Tegtmeier from Meinsen
   - 
-  - [1806 Johann Heinrich Krückeberg Baptism](../petzen/PET-B-1806a.md)
+  - {external+genealogy:doc}`1806 Johann Heinrich Krückeberg Baptism <petzen/PET-B-1806a>`
 * - P
   - Sep. 1808
   - Jobst Heinrich
@@ -310,7 +310,7 @@ sponsor. She is still alive! Who would this be?
   - 
   - 
   - Birthdate: 14 Jan. 1798
-  - [1811 Anne Christine Leonore Krückeberg Confirmation](../petzen/PET-C-1811a.md)
+  - {external+genealogy:doc}`1811 Anne Christine Leonore Krückeberg Confirmation <petzen/PET-C-1811a>`
 * - M
   - 23 Feb. 1812
   - Philippine Caroline Krückeberg & Friedrich Wilhelm Watermann, #11 Nordholz
@@ -321,7 +321,7 @@ sponsor. She is still alive! Who would this be?
   - not given
   - 
   - **Bride:**
-  - [1812 Philippine Caroline Christine Krückeberg Marriage](../petzen/PET-M-1812b.md)
+  - {external+genealogy:doc}`1812 Philippine Caroline Christine Krückeberg Marriage <petzen/PET-M-1812b>`
 * - C
   - 31 March 1816
   - Sophie Wilhelmine Krückeberg
@@ -332,7 +332,7 @@ sponsor. She is still alive! Who would this be?
   - 
   - 
   - Confimed on Quasimodigeniti
-  - [1811 Anne Christine Leonore Krückeberg Confirmation](../petzen/PET-C-1811a.md)
+  - {external+genealogy:doc}`1811 Anne Christine Leonore Krückeberg Confirmation <petzen/PET-C-1811a>`
 * - C
   - 2 April 1820
   - Johann Heinrich Krückeberg
@@ -343,7 +343,7 @@ sponsor. She is still alive! Who would this be?
   - not given
   - 
   - Quasimodigeniti win 1818 was 2 Apr. 1818
-  - [1820 Johann Heinrich Krückeberg Confirmation](../petzen/PET-C-1820a.md)
+  - {external+genealogy:doc}`1820 Johann Heinrich Krückeberg Confirmation <petzen/PET-C-1820a>`
 * - D
   - 21 Oct. 1822
   - Jobst Heinrich Krückeberg
@@ -356,7 +356,7 @@ sponsor. She is still alive! Who would this be?
   - age 58
     
     Occupation: Schusteramtsmeister
-  - [1822 Jobst Heinrich Krückeberg Death](../petzen/PET-D-1822b.md)
+  - {external+genealogy:doc}`1822 Jobst Heinrich Krückeberg Death <petzen/PET-D-1822b>`
 ```
 
 ## Nachträge
@@ -368,10 +368,10 @@ sponsor. She is still alive! Who would this be?
   - Source Record
   - Referenced Ceremony
 * - Philippine Caroline Christine
-  - [1792 Philippine Caroline Christine Kruckeberg Baptism](../petzen/PET-B-1792a.md)
-  - [1st marriage, 23 Feb. 1812](../petzen/PET-M-1812b.md)
+  - {external+genealogy:doc}`1792 Philippine Caroline Christine Kruckeberg Baptism <petzen/PET-B-1792a>`
+  - {external+genealogy:doc}`1st marriage, 23 Feb. 1812 <petzen/PET-M-1812b>`
 * - Philippine Caroline Christine
-  - [1792 Philippine Caroline Christine Kruckeberg Baptism](../petzen/PET-B-1792a.md)
+  - {external+genealogy:doc}`1792 Philippine Caroline Christine Kruckeberg Baptism <petzen/PET-B-1792a>`
   - 2nd marriage: 11 May 1834
 ```
 

@@ -5,10 +5,10 @@
 The event table is based on two derived records:
 
 1. [Family Record of the Emigrant Carl Friedrich Krückeberg](../derived-church-records/FS-CFK.md)
-2. {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+2. {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 
 The [Family Record of the Emigrant Carl Friedrich Krückeberg](../derived-church-records/FS-CFK.md) begins: Laut Angabe des hiesigen Kirchenbuchs ("according to the
-local church records". The {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>` does not note its source of
+local church records". The {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>` does not note its source of
 information.
 
 ```{list-table} Derived Record Event Table for Carl Friedrich Krückeberg Family
@@ -37,7 +37,7 @@ information.
   - Born in the County of Bückeburg, Principality Schaumburg-Lippe.
   - [Family Record of the Emigrant Carl Friedrich Krückeberg](../derived-church-records/FS-CFK.md)
     
-    {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+    {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Baptism
   - Feb 1835
   - Carl Heinrich Wilhelm Krückeberg
@@ -50,7 +50,7 @@ information.
   - Baptized the same month.
   - [Family Record of the Emigrant Carl Friedrich Krückeberg](../derived-church-records/FS-CFK.md)
     
-    {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+    {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Marriage
   - 16 Nov 1834
   - Carl Friedrich Krückeberg & Luise Dorothea Weiland
@@ -182,7 +182,7 @@ information.
   - —
   - 
   - Born in Großenheerse, District Minden, Kingdom of Prussia.
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Baptism
   - 1834
   - Caroline Wilhelmine Kleinschmidt
@@ -193,7 +193,7 @@ information.
   - —
   - 
   - Baptized by Pastor Köhn.
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Confirmation
   - 16 Apr 1848
     (undocumented)
@@ -205,7 +205,7 @@ information.
   - —
   - 
   - Palm Sunday 1848 (undocumented but chronologically consistent).
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Confirmation
   - 1 Apr 1849
   - Carl Heinrich Wilhelm Krückeberg
@@ -216,7 +216,7 @@ information.
   - —
   - 
   - Confirmed by Pastor Schwertmann.
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Emigration Departure
   - 1 Oct 1850
   - Carl Heinrich Wilhelm Krückeberg
@@ -227,7 +227,7 @@ information.
   - —
   - 
   - Emigrated with parents.
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Emigration Arrival
   - 26 Nov 1850
   - Carl Heinrich Wilhelm Krückeberg
@@ -238,7 +238,7 @@ information.
   - —
   - 
   - Arrived in Fort Wayne.
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Marriage
   - 28 Jan 1860
   - Carl Heinrich Wilhelm Krückeberg & Caroline Wilhelmine Kleinschmidt
@@ -249,7 +249,7 @@ information.
   - —
   - 
   - Marriage recorded at Immanuel.
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Birth
   - 30 Sep 1860
   - Friedrich Christian Wilhelm Krückeberg
@@ -260,7 +260,7 @@ information.
   - —
   - 
   - —
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Baptism
   - 6 Oct 1860
   - Friedrich Christian Wilhelm Krückeberg
@@ -272,7 +272,7 @@ information.
   - Wilhelm Schamerloh
     Christian Kleinschmidt
   - —
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Birth
   - 2 Jul 1862
   - Sophie Louise Krückeberg
@@ -283,7 +283,7 @@ information.
   - —
   - 
   - —
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Baptism
   - 14 Jul 1862
   - Sophie Louise Krückeberg
@@ -295,7 +295,7 @@ information.
   - Philippine Schamerloh
     Sophie Buuck
   - —
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Birth
   - 10 Jul 1864
   - Louise Wilhelmine Sophie Krückeberg
@@ -306,7 +306,7 @@ information.
   - —
   - 
   - —
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 * - Baptism
   - 17 Jul 1864
   - Louise Wilhelmine Sophie Krückeberg
@@ -318,7 +318,7 @@ information.
   - Caroline Schamerloh
     Emma Belz
   - —
-  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <ROOT/DEC-BIO-Krueckeberg-02>`
+  - {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-02 <immanuel/DEC-BIO-Krueckeberg-02>`
 ```
 
 **†** — The **Bleeken** surname for Phlippine Leonore is in error.
@@ -349,7 +349,7 @@ information.
   - -
   - -
   - Confirmed: Quasimodogeniti Sunday, 1821
-  - [1821 Carl Friedrich Krückeberg Confirmation](../petzen/PET-C-1821a.md)
+  - {external+genealogy:doc}`1821 Carl Friedrich Krückeberg Confirmation <petzen/PET-C-1821a>`
 ```
 
 ## Notes on Event Interpretation

@@ -3,9 +3,8 @@
 ## Who is Jobst Heinrich’s Father
 
 Is Johan Heinrich Krückeberg, who was born on
-[Janyary, 19, 1744](../petzen/PET-B-1744a.md), the father of the Jobst
-Heinrich Krückeberg who was born on [March 24,
-1765](../petzen/PET-B-1765a.md). The birth record of Jobst Heinrich states his father is **Johan
+{external+genealogy:doc}`Janyary, 19, 1744 <petzen/PET-B-1744a>`, the father of the Jobst
+Heinrich Krückeberg who was born on {external+genealogy:doc}`March 24, 1765 <petzen/PET-B-1765a>`. The birth record of Jobst Heinrich states his father is **Johan
 Heinrich**. The birth record does not mention the locality where he was
 born. Berenbusch is not mentioned (except as the locality of the baptismal
 sponsor Weiland).

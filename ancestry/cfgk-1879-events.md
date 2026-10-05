@@ -4,7 +4,145 @@
 
 Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
 
-```{include} _table-artifacts/cfgk-1879-events-table-01.html
+```{flat-table}
+:header-rows: 1
+
+* - Event
+  - Event Date
+  - Name of Subject
+  - Father
+  - Mother
+  - Residence (Bap./Conf.)
+  - No.
+  - Occupation
+  - Sponsors
+  - Notes
+  - Record Page(s)
+
+* - M
+  - 13 Mar. 1803
+  - Carl Friedrich Gottlieb Krüceberg & Philippine Eleonore Werkmeister
+  - not given
+  - not given
+  - {cspan}`1` Groom: No. 10 Berenbusch Bride: no. 11 Evesen
+  - not given
+  -
+  - **Note:** The groom’s residence is his residence at the time of marraige, not necessarily were the couple will live.
+
+    {ref}`Nachträge exists for the bride and groom <nachtraege>`
+  - {external+genealogy:doc}`petzen:PET-M-1803a.xml <petzen/PET-M-1803a>`
+
+* - B
+  - 7 Dec. 1803
+  - Christine Philippine Krückeberg
+  - Carl Friedrich Krückeberg
+  - Philippine Werkmeister
+  - Evesen
+  -
+  -
+  -
+  - Father: Einlieger
+  - {external+genealogy:doc}`petzen:PET-B-1803c.xml <petzen/PET-B-1803c>`
+
+* - Bp
+  - 11 Dec. 1803
+  - Christine Philippine Krückeberg
+  - Carl Friedrich Krückeberg
+  - Philippine Werkmeister
+  - Evesen
+  -
+  -
+  - Mrs. Kruckeberg, from Berenbusch
+
+    Weyland, from Berenbusch
+  - **Stand:** Einlieger
+  - {external+genealogy:doc}`petzen:PET-B-1803c.xml <petzen/PET-B-1803c>`
+
+* - B
+  - 21 May 1807
+  - Carl Friedrich Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Lenore née Bleeken **†** from no. 11 Evesen
+  - Berenbusch
+  - 14
+  - tailor
+  -
+  - 1st son, 2nd child
+
+    Father is **Einlieger**. Thus the family resided in house no. 14 in Berenbusch, owned by another household head. He also therefore had no agricultural holding.
+
+    Mother from no. 11 Evesen
+  - {external+genealogy:doc}`petzen:PET-B-1807a.xml <petzen/PET-B-1807a>`
+
+* - Bp
+  - 24 May 1807
+  - Carl Friedrich Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Lenore née Bleeken **†** from no. 11 Evesen
+  - Berenbusch
+  - 14
+  - tailor
+  - Hans Heinrich Wilharm, n. 11 Evesen
+
+    Johann Heinrich Deerberg, n. 6 Evesen
+
+    Jobst Heinrich Krückeberg, Bärenbusch
+  - Father is **Einlieger**
+
+    Mother from no. 11 Evesen
+  - {external+genealogy:doc}`petzen:PET-B-1807a.xml <petzen/PET-B-1807a>`
+
+* - B
+  - 2 Dec. 1812
+  - Caroline Dorothee Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Leonore née Bleeken **†** from n. 11 Evesen
+  - Berenbusch
+  - 18
+  -
+  -
+  - 3rd child, 2nd daughter
+
+    {ref}`Nachträge exists for her and her father <nachtraege>`
+  - {external+genealogy:doc}`petzen:PET-B-1812a.xml <petzen/PET-B-1812a>`
+
+* - Bp
+  - 6 Dec. 1812
+  - Caroline Dorothee Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Leonore née Bleeken **†** from n. 11 Evesen
+  - Berenbusch
+  - 18
+  -
+  - Marie Dorothee Deerberg, n. 6 Evesen
+
+    Caroline Charolitte Sieckmeier, n. 4 in Evesen.
+  - {ref}`Nachträge exists for her and her father <nachtraege>`
+  - {external+genealogy:doc}`petzen:PET-B-1812a.xml <petzen/PET-B-1812a>`
+
+* - C
+  - 6 April 1817
+  - Christine Philippine Krückeberg
+  -
+  -
+  - Berenbusch
+  - 18
+  -
+  -
+  - Confirmed: Quasimodogeniti Sunday, 1817
+  - {external+genealogy:doc}`petzen:PET-C-1817a.xml <petzen/PET-C-1817a>`
+
+* - C
+  - 8 April 1821
+  - Carl Friedrich Krückeberg
+  -
+  -
+  - Berenbusch
+  - 14
+  -
+  -
+  - Confirmed: Quasimodogeniti Sunday, 1821
+  - {external+genealogy:doc}`petzen:PET-C-1821a.xml <petzen/PET-C-1821a>`
 ```
 
 **†** — The **Bleeken** surname for Phlippine Leonore is in error. See
@@ -33,6 +171,7 @@ between 1803 and 1813, this birth-order fact provides a double check that guaran
 were inadvertently overlooked. Furthermoe, since all baptism records after 1812 were carefully examined and no
 further births to this couples were found recorded, we have the entire family.
 
+(nachtraege)=
 ## Nachträge Table
 
 The baptism record for Caroline Dorothee Krückeberg contains Nachträge, mariginal addenda, that lists
@@ -49,21 +188,21 @@ link to the prior generation, the proof of who his parent’s are.
   - Referenced Ceremony
   - Nachtrag Text
 * - Carl Friedrich Gottlieb Krückeberg
-  - [1803 Carl Friedrich Gottlieb Krückeberg Marriage](../petzen/PET-M-1803a.md)
+  - {external+genealogy:doc}`1803 Carl Friedrich Gottlieb Krückeberg Marriage <petzen/PET-M-1803a>`
   - Baptism
   - get. 18.4.79
     (Baptized 18 Mar. 1779)
 * - Carl Friedrich Gottlieb Krückeberg
-  - [1803 Carl Friedrich Gottlieb Krückeberg Marriage](../petzen/PET-M-1803a.md)
+  - {external+genealogy:doc}`1803 Carl Friedrich Gottlieb Krückeberg Marriage <petzen/PET-M-1803a>`
   - Death
   - gest. 13.5.38
     (Died 13 May 1838)
 * - Caroline Dorothee Krückeberg
-  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - {external+genealogy:doc}`1812 Carloline Dorothee Krückeberg Baptism <petzen/PET-B-1812a>`
   - Marriage
   - "Married 15 Oct. 1835G"
 * - Caroline Dorothee Krückeberg
-  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - {external+genealogy:doc}`1812 Carloline Dorothee Krückeberg Baptism <petzen/PET-B-1812a>`
   - Death
   - "Died 14 Dec. 1869"
 ```

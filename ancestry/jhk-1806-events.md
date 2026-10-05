@@ -2,7 +2,7 @@
 
 ## Event Table for Johann Heinrich Krückeberg
 
-This information is taken from the Immanuel Lutheran {external+immanuel:doc}`founder’s biography <ROOT/DEC-BIO-Krueckeberg-01>` for
+This information is taken from the Immanuel Lutheran {external+immanuel:doc}`founder’s biography <immanuel/DEC-BIO-Krueckeberg-01>` for
 Johann Heinrich Krückeberg.
 
 ### Event Codes
@@ -30,7 +30,7 @@ Johann Heinrich Krückeberg.
 
 ### Event Table
 
-```{list-table} Events based on {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-01 <ROOT/DEC-BIO-Krueckeberg-01>`
+```{list-table} Events based on {external+immanuel:doc}`immanuel:ROOT:DEC-BIO-Krueckeberg-01 <immanuel/DEC-BIO-Krueckeberg-01>`
 :header-rows: 1
 
 * - Event
