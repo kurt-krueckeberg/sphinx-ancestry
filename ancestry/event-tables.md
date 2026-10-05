@@ -1,0 +1,148 @@
+# Research Strategy
+
+## ✅ Event and Nachträge Tables
+
+To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe,
+Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), a **event table** is
+used to synthesize the Petzen parish records involving each generation of a Krückeberg family.
+
+Furthermore, some church register entires have very helpful **Nachträge** (addenda) that provide the
+dates of earlier and/or later church ceremonies involving the person. The [1812 Philippine Caroline Christine Krückeberg Marriage](../petzen/PET-M-1812b.md),
+for example, contains the date of her baptism, her future 2nd marriage and the date of her death:
+
+Addenda to marriage record of [1812 Philippine Caroline Christine Krückeberg Marriage](../petzen/PET-M-1812b.md)
+
+```{code-block} text
+
+geb. 1.2.92; 2. Cop. 11.5.34
+gest. 26.10.70
+
+Translation:
+born 2/1/1792; 2nd marriage 5/11/1834
+died 10/26/1870
+```
+
+These Nacträge (addenda) reference earlier and later church record entries of the same individual.
+Thus they can immediately eliminate the manually page-by-page research time consumed locating
+these other records. Furthermore, by confirming an individual’s identity in earlier and later church
+records, the mental effort of separately confirming the individual’s common identity across these
+drecords is also eliminated.
+
+## ✅ What the Event Table Is
+
+The **Event Table** is a structured list of **all genealogically relevant
+events** found in the Petzen Lutheran church records, including:
+
+- **Births**
+- **Baptisms**
+- **Confirmations**
+- **Marriages**
+- **Deaths/Burials**
+
+And it contains information concerning the:
+
+- **Church ceremony**
+- **Principal Subject of the ceremony**
+- **Parents (when given)**
+- **Residence indicators**
+- **House numbers (when they begin appearing)**
+- **Occupations (when given)**
+- **Status of the Head of Household (when given)**
+- **Baptism Sponsor relationships**
+- **Notes to capture important details**
+
+## ✅ Why the Event Table Matters
+
+The **Event Table solves this** by letting us:
+
+- ✅ cluster events belonging to the same nuclear family
+- ✅ distinguish same-name individuals
+- ✅ track movement between villages
+- ✅ identify fathers and mothers even when not named
+- ✅ document all claims with proper citations
+- ✅ build **a defensible lineage** meeting BCG standards
+
+## ✅ What Columns the Event Table Should Contain
+
+These are the columns the event tables will contain:
+
+```{code-block} text
+
+| Event Type (B, C, M, D)
+| Event Date (exact or circa)
+| Name of subject
+| Father (as written; normalized in parentheses)
+| Mother (as written; normalized in parentheses)
+| Residence / village
+  (Baptism & Confirmation only)
+  (as written)
+| House number (when available)
+| Occupation (if present)
+| Sponsors / witnesses (as written)
+| Notes (abbreviations, ambiguity, ditto marks)
+| Record Page
+```
+
+### Usage Notes (for reference, not part of the table)
+
+Residence information in a church record is most meaningful for Births/Baptisms and Confirmations but
+not for marriages or deaths. Infants who are baptized and adolescents who are confirmed reside with
+their family. In the case of marriages, the "residence" give for the bride or groom is their residence
+at the time of marriage not necessarily their future residence (although the groom’s residence often is
+the couple’s future residence). In the case of death/burial, a residence is not alwaysy given but rather
+a "place of death". Therefore, "Residence / Village" and "No." are populated only for:
+
+1. Baptism events
+2. Confirmation events
+
+For Marriage events:
+
+- Pre-marriage residence(s) of bride and groom are recorded in the Notes column
+- Residence / Village and No. columns remain blank
+
+For Death / Burial events:
+
+- Place and time of death and burial are recorded in Notes
+- Residence / Village and No. columns remain blank unless the record explicitly states residence
+
+The table is chronologically ordered by Event Date. The following codes are used for each type of
+event:
+
+```{list-table}
+:header-rows: 1
+
+* - Event
+  - Code
+* - **Birth**
+  - **B**
+* - **Baptism**
+  - **Ba**
+* - **Confirmation**
+  - **C**
+* - **Marriage**
+  - **M**
+* - **Death / Burial**
+  - **D**
+```
+
+## ✅ Nachträge Tables
+
+### What is Nachträge?
+
+Nachträge are later marginal addenda added to entries in German church registers that record additional
+life events such as a person’s confirmation, marriage, death, or migration.
+
+They link multiple church records to the same individual and confirm their identity over their lifetime.
+
+### Why the Nachträge is Important
+
+Nachträge are critical identity evidence. They confirm that the child baptized in a specific record is the same
+person who later:
+
+- married on a particular date,
+- died in a particular year,
+- or underwent another recorded ceremony.
+
+Because these marginal notes link multiple life events to the same individual, they strengthen genealogical proof
+and prevent mistaken identity—especially in villages where names repeat across families.
+

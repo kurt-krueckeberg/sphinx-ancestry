@@ -1,0 +1,62 @@
+# Legend and scope of this table
+
+## Legend and scope of this table
+
+This event table records facts exactly as they appear in the underlying
+source. All columns are **event-scoped**, not person-scoped: entries for
+residence, house number, occupation, status, parents, or sponsors reflect
+what is stated in the specific record for that event only, and
+are not harmonized across records.
+
+The table intentionally combines Kirchenbuch entries with administrative
+records (e.g., Rentkammer and Vormundschaft files) in strict chronological
+order to allow the reconstruction of life occurances, status changes, and
+legal processes over time. Assertions made by the subject (e.g., in
+petitions) are identified as such in the Notes column.
+
+## Event Types
+
+### Kirchenbuch Events
+
+- Baptism
+- Marriage
+- Burial
+- Confirmation
+- Birth (only if explicitly recorded outside baptism)
+- Stillbirth / Unbaptized burial (if applicable)
+
+### Case File "Events"
+
+This is an example of a case file row in the table:
+
+```{list-table}
+:header-rows: 1
+
+* - Event
+  - Event Date
+  - Name of Subject
+  - Father
+  - Mother
+  - Residence / Village
+  - House Number
+  - Occupation
+  - Sponsors
+  - Notes
+  - Record Page
+* - Petition for new holding
+  - 1808-11-xx
+  - Jobst Heinrich Krückeberg
+  - —
+  - —
+  - Evesen
+  - 11 (Wilharms)
+  - Schneider
+  - —
+  - Self-reported in petition
+  - NLA BU
+    K 2 B Nr. 139 (Rentkammer), fol. …
+```
+
+The *Event* tells you it is an Akte; the *Record Page* tells the case file,
+the document number (or other description) and the page.
+

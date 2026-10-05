@@ -1,0 +1,381 @@
+# Carl Friedrich Krückeberg (b. 1807) Family Events
+
+## Event Table for Family of Carl Friedrich Krückeberg (1807-185?)
+
+This event table is based exclusively on the information found in the
+[family record of the emigrant Carl Friedrich Krückeberg](../derived-church-records/FS-CFK.md).
+
+### Event Codes
+
+```{list-table}
+:header-rows: 1
+
+* - Event
+  - Code
+* - **Birth**
+  - **B**
+* - **Baptism**
+  - **Ba**
+* - **Confirmation**
+  - **C**
+* - **Marriage**
+  - **M**
+* - **Death / Burial**
+  - **D**
+```
+
+### Derived Record Event Table for Carl Friedrich Krückeberg Family
+
+```{list-table} Derived Record Event Table for Carl Friedrich Krückeberg Family
+:header-rows: 1
+
+* - Event
+  - Event Date
+  - Name of Subject
+  - Father
+  - Mother
+  - Residence/Village
+    (Ba/C only)
+  - No.
+  - Occupation
+  - Sponsors
+  - Notes
+* - B
+  - 21 May 1807
+  - Carl Friedrich Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Phlippine Leonore Bleeke **†**
+  - Evesen
+  - 11
+  - tailor
+  - 
+  - 2nd child, 1st son
+* - Ba
+  - 24 May 1807
+  - Carl Friedrich Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Phlippine Leonore Bleeke **†**
+  - Evesen
+  - 11
+  - tailor
+  -                     Hans Heinrich Wilharm,
+    #11 Evesen
+                      
+                      
+                        Johann Heinrich Deerberg,
+    #6 Evensen,
+                      
+                      
+                        Jobst Heinrich Krückeberg,
+    Beerenbusch.
+  - 
+* - B
+  - 2 Jan. 1811
+  - Luise Dorothea Weiland
+  - Friedrich Wilhelm Weiland
+  - Anna Katharine Drinckuth
+  - Evesen
+  - #20
+  - 
+  - 
+  - 3rd child, 3rd daughter
+    
+    **Father:** Kolon
+* - Ba
+  - 2 Jan. 1811
+  - Luise Dorothea Weiland
+  - Friedrich Wilhelm Weiland
+  - Anna Katharine Drinckuth
+  - Evesen
+  - #20
+  - 
+  -                     Dorothea Deerberg,
+    #6 Evesen
+                      
+                      
+                        Katharine Leonore Kuhlmann,
+    #3 Evensen.
+  - 
+* - M
+  - 16 Nov 1834
+  - Carl Friedrich Krückeberg & Luise Dorothea Weiland
+  - same as birth
+  - same as birth
+  - TODO
+  - TODO
+  - TODO
+  - TODO
+  - TODO
+* - B
+  - 4 Feb 1835
+  - Carl Heinrich Wilhelm Krückeberg
+  - Carl Friedrich Krückeberg
+  - Luise Dorothea née Weiland
+  - 
+  - 
+  - 
+  - 
+  - 
+* - C
+  - 15 Apr 1849
+  - Carl Heinrich Wilhelm Krückeberg
+  - Carl Friedrich Krückeberg
+  - Luise Dorothea née Weiland
+  - 
+  - 
+  - 
+  - 
+  - Confirmed on Quasimodogeniti Sunday
+* - B
+  - 15 Oct 1837
+  - Caroline Philippine Krückeberg
+  - Carl Friedrich Krückeberg
+  - Luise Dorothea née Weiland
+  - 
+  - 
+  - 
+  - 
+  - 
+* - B
+  - 8 Sep 1840
+  - Caroline Philippine Sophie Krückeberg
+  - Carl Friedrich Krückeberg
+  - Luise Dorothea née Weiland
+  - 
+  - 
+  - 
+  - 
+  - 
+* - B
+  - 6 Sep 1843
+  - Wilhelmine Christine Krückeberg
+  - Carl Friedrich Krückeberg
+  - Luise Dorothea née Weiland
+  - 
+  - 
+  - 
+  - 
+  - 
+* - B
+  - 23 Jul 1846
+  - Friederich Wilhelm Krückeberg
+  - Carl Friedrich Krückeberg
+  - Luise Dorothea née Weiland
+  - 
+  - 
+  - 
+  - 
+  - 
+* - B
+  - 6 Feb 1850
+  - Ernst Heinrich Krückeberg
+  - Carl Friedrich Krückeberg
+  - Luise Dorothea née Weiland
+  - 
+  - 
+  - 
+  - 
+  - 
+```
+
+**†** — The **Bleeken** surname for Phlippine Leonore is in error. See
+[Proof Argument: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg](proof-arg-philippine-eleonore-werkmeister.md).
+
+## Original Petzen Records Event Table for the Carl Friedrich Gottlieb Krückeberg Family
+
+### Frequency of Krückebergs in the Petzen Records
+
+Reviewing the Petzen records from the early part of the 18th century into the early part of the 19th century, we find that
+there are not many Krückeberg records because there were not that many Krückeberg families in the Petzen parish.
+This greatly aids finding the prior generation to Johann Heinrich and Carl Friedrich Krückeberg. However, it
+doesn’t eliminate the requirement of examining every page of the church register, which is unindexed.
+
+We can immediately look for those Krückebergs that lived at the same address, had the same parents, whose father
+has the same occupation and the same status (Stand in German), had the network of sponsors, etc.
+We can use the same technique to find the prior generation.
+
+Especially helpful in confirming the individual in different records is the Nachträge (addenda) that is sometime
+occurance in the margins of a record that references past of future church ceremonies involving a individual
+and sometimes their parents. So in addition to the event table, we also have a separate [Nachträge
+table](nachtraege).
+
+**TODO:** Move this statement where it better fits:
+Carl Friedrich Gottlieb Krückeberg was the father of Carl Friedrich Krückeberg born in 1807.
+
+### Event Table
+
+```{list-table} Petzen Parish Records Event Table for Carl Friedrich Krückeberg Family
+:header-rows: 1
+
+* - Event Type
+  - Event Date
+  - Name of Subject
+  - Father
+  - Mother
+  - Residence / Village
+  - No.
+  - Occupation
+  - Sponsors
+  - Notes
+  - Record Page(s)
+* - B
+  - 7 Dec. 1803
+  - Christine Philippine Krückeberg
+  - Carl Friedrich Krückeberg
+  - Philippine Werkmeister
+  - Evesen
+  - 
+  - 
+  - 
+  - Father: Einlieger
+  - [1803 Christine Philippine Krückeberg Birth](../petzen/PET-B-1803c.md)
+* - Ba
+  - 11 Dec. 1803
+  - Christine Philippine Krückeberg
+  - Carl Friedrich Krückeberg
+  - Philippine Werkmeister
+  - Evesen
+  - 
+  - 
+  - Mrs. Kruckeberg and
+    Weyland from Berenbusch
+  - Father: Einlieger
+  - [1803 Christine Philippine Krückeberg Birth](../petzen/PET-B-1803c.md)
+* - B
+  - 21 May 1807
+  - Carl Friedrich Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Lenore née Bleeken **†**
+    from # 11 Evesen
+  - Berenbusch
+  - 14
+  - tailor
+  - Father’s status: Einlieger
+  - 1st son, 2nd child
+    
+    Father is **Einlieger**
+    
+    Mother from # 11 Evesen
+  - [1807 Carl Friedrich Krückeberg Baptism](../petzen/PET-B-1807a.md)
+* - Ba
+  - 24 May 1807
+  - Carl Friedrich Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Lenore née Bleeken **†**
+    from # 11 Evesen
+  - Berenbusch
+  - 14
+  - tailor
+  -                     Hans Heinrich Wilharm, n. 11 Evesen
+                      
+                      
+                        Johann Heinrich Deerberg, n. [6] Evesen
+                      
+                      
+                        Jobst Heinrich Krückeberg, Bärenbusch
+  - Father is **Einlieger**
+    
+    Mother from # 11 Evesen
+  - [1807 Carl Friedrich Krückeberg Baptism](../petzen/PET-B-1807a.md)
+* - B
+  - 2 Dec. 1812
+  - Caroline Dorothee Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Leonore  née Bleeken **†**
+    from n. 11 Evesen
+  - Berenbusch
+  - 18
+  - 
+  - 3rd child, 2nd daughter
+  - [Nachträge exists for her and her father](nachtraege)
+  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+* - Ba
+  - 6 Dec. 1812
+  - Caroline Dorothee Krückeberg
+  - Carl Friedrich Gottlieb Krückeberg
+  - Philippine Leonore née Bleeken **†**
+    from n. 11 Evesen
+  - Berenbusch
+  - 18
+  - 
+  -                     Marie Dorothee Deerberg, n. 6 Evesen
+                      
+                      
+                        Caroline Charolitte Sieckmeier, n. 4 in Evesen.
+  - [Nachträge exists for her and her father](nachtraege)
+  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+* - C
+  - 6 April 1817
+  - Christine Philippine Krückeberg
+  - 
+  - 
+  - Berenbusch
+  - 18
+  - 
+  - 
+  - Confirmed: Quasimodogeniti Sunday, 1817
+  - [1817 Christine Philippine Krückeberg Confirmation](../petzen/PET-C-1817a.md)
+* - C
+  - 8 April 1821
+  - Carl Friedrich Krückeberg
+  - 
+  - 
+  - Berenbusch
+  - 14
+  - 
+  - 
+  - Confirmed: Quasimodogeniti Sunday, 1821
+  - [1821 Carl Friedrich Krückeberg Confirmation](../petzen/PET-C-1821a.md)
+```
+
+**†** — The **Bleeken** surname for Phlippine Leonore is in error. See
+[Proof Argument: The Identity of Philippine Eleonore, Wife of Carl Friedrich Gottlieb Krückeberg](proof-arg-philippine-eleonore-werkmeister.md).
+
+### Comments
+
+The event table shows that for each of the three children born to Carl Friedrich Gottlieb Krückeberg and Philippine
+Leonore Werkmeister (or to Philippine Leonore Bleeke as her name is recorded baptism records of her 2nd and 3rd
+children, a contradication that will be explained later), we find:
+
+- the village of **Berenbush** is the same.
+- the father’s status as Einlieger is the same in the first two baptism records
+- the father’s occupation of tailor is the same in the 2nd and 3rd baptism records.
+
+Since the baptism records for Carl Friedrich and Caroline Dorothee Krückeberg give their birth order and their
+birth order among the sons or daughters, we know that between 1803, when their first child was born, and 1812,
+whhen their was 1812, no other children were born. While I have examined every single Petzen birth-baptism record
+between 1803 and 1813, this birth-order fact provides a double check that guarantees no other births to this couple
+were inadvertently overlooked. Furthermoe, since all baptism records after 1812 were carefully examined and no
+further births to this couples were found recorded, we have the entire family.
+
+## Nachträge Table
+
+```{list-table} Nachträge table for [event-table-petzen-cfg-krueckeberg-family](event-table-petzen-cfg-krueckeberg-family)
+:header-rows: 1
+
+* - Name of Subject
+  - Source Record
+  - Referenced Ceremony
+  - Nachtrag Text
+* - Carl Friedrich Gottlieb Krückeberg
+  - [1779 Carl Friderich Gottlieb Kruckeberg Baptism](../petzen/PET-B-1779b.md)
+  - Baptism
+  - „get. 18.4.1779“
+    (baptized 18 Mar. 1779)
+* - Carl Friedrich Gottlieb Krückeberg
+  - [1779 Carl Friderich Gottlieb Kruckeberg Baptism](../petzen/PET-B-1779b.md)
+  - Marriage
+  - „cop. 13.3.03“
+    (married 13 Mar. 1803)
+* - Caroline Dorothee Krückeberg
+  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - Marriage
+  - „cop. 25.10.35“
+    (married 15 Oct. 1835)
+* - Caroline Dorothee Krückeberg
+  - [1812 Carloline Dorothee Krückeberg Baptism](../petzen/PET-B-1812a.md)
+  - Death
+  - „gest.14.12.69“
+    (died 14 Dec. 1869)
+```
+
