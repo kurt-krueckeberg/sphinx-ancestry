@@ -93,12 +93,74 @@ The tract book entry for Carl Friedrich Krückeberg, where his name is spelled "
 
 Tract Book Volume 2, Fort Wayne land office
 
-```{include} _table-artifacts/federal-land-records-table-01.html
+```{flat-table}
+:class: no-zebra-rowspan-table
+
+* - {cspan}`3` **DESCRIPTION OF THE TRACT**
+  - {cspan}`1` **Contents**
+  - {cspan}`1` **Rate per Acre**
+  - {cspan}`1` **Purchase Money**
+  - {rspan}`1` **Name of Purchaser**
+
+* - **Part of Section**
+  - **Section**
+  - **Township**
+  - **Range**
+  - **Acres**
+  - **Hdths.**
+  - **Dollars**
+  - **Cents**
+  - **Dollars**
+  - **Cent**
+
+* - Fract SW„
+  - „
+  - „
+  - „
+  - 34
+  - 30
+  - 1
+  - 25
+  - 42
+  - 88
+  - Charles F. Tinkenbury
+
+* - Sold SW {sup}`1`/{sub}`4`
+  - „
+  - „
+  - „
+  - 34
+  - 30
+  - {cspan}`4` Swampland per act of 28.{sup}`th.` Sept. 1850
 ```
 
 Tract Book Volume 2, Fort Wayne land office
 
-```{include} _table-artifacts/federal-land-records-table-02.html
+```{flat-table}
+:header-rows: 1
+:class: no-zebra-rowspan-table
+
+* - {cspan}`7` RANGE No. 15 DISTRICT OF Fort Wayne[Fort Wayne is written by hand]
+
+* - {rspan}`1` **Number of Register’s Return**
+  - {rspan}`1` **DATE OF SALE**
+  - {rspan}`1` **Number of Receipt.**
+  - {rspan}`1` **Number of Certificate of Purchase.**
+  - {rspan}`1` **TO WHOM PATENTED.**
+  - {rspan}`1` **DATE OF PATENT**
+  - {cspan}`1` **When Recorded**
+
+* - **Volume**
+  - **Page**
+
+* -
+  - Dec. 16 1850
+  - 28621
+  - 28621
+  -
+  -
+  -
+  -
 ```
 
 ## Citation

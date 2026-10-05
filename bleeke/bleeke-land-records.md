@@ -21,12 +21,132 @@ which appear in the entries immediately above these.
 
 ## Transcription of Left Page of Tract Book Volume 2, Fort Wayne land office
 
-```{include} _table-artifacts/bleeke-land-records-table-01.html
+```{flat-table}
+:header-rows: 1
+:class: no-zebra-rowspan-table
+
+* - {cspan}`10` TOWNSHIP No. 28
+
+* - {cspan}`3` **DESCRIPTION OF THE TRACT**
+  - {cspan}`1` **Contents**
+  - {cspan}`1` **Rate per Acre**
+  - {cspan}`1` **Purchase Money**
+  - {rspan}`1` **Name of Purchaser**
+
+* - **Part of Section**
+  - **Section**
+  - **Township**
+  - **Range**
+  - **Acres**
+  - **Hdths.**
+  - **Dollars**
+  - **Cents**
+  - **Dollars**
+  - **Cent**
+
+* - NW 1/4 SW 1/4
+  - "
+  - "
+  - "
+  - 40
+  - "
+  - 1
+  - 25
+  - 50
+  - "
+  - Jn. Henry Blecke
+
+* - E 1/2 SW 1/4
+  - "
+  - "
+  - "
+  - 80
+  - "
+  - 1
+  - 25
+  - 100
+  - "
+  - Charles F Ble[c]ke
+
+* - NW 1/4
+  - "
+  - "
+  - "
+  - 160
+  - "
+  - 1
+  - 25
+  - 200
+  - "
+  - John Henry Bleeke
+
+* - SW1/4 SW1/4
+  - "
+  - "
+  - "
+  - [40?]
+  - "
+  - 1
+  - 25
+  - 50
+  - "
+  - Christian Blake
 ```
 
 ## Transcription of Right Page of Tract Book Volume 2, Fort Wayne land office
 
-```{include} _table-artifacts/bleeke-land-records-table-02.html
+```{flat-table}
+:header-rows: 1
+:class: no-zebra-rowspan-table
+
+* - {cspan}`7` RANGE No. 15 DISTRICT OF Fort Wayne[Fort Wayne is written by hand]
+
+* - {rspan}`1` **Number of Register’s Return**
+  - {rspan}`1` **DATE OF SALE**
+  - {rspan}`1` **Number of Receipt.**
+  - {rspan}`1` **Number of Certificate of Purchase.**
+  - {rspan}`1` **TO WHOM PATENTED.**
+  - {rspan}`1` **DATE OF PATENT**
+  - {cspan}`1` **When Recorded**
+
+* - **Volume**
+  - **Page**
+
+* - 153
+  - Dec. 10 1838
+  - 23246
+  - 23246
+  -
+  -
+  -
+  -
+
+* - "
+  - Dec. 10 1838
+  - 23247
+  - 23247
+  -
+  -
+  -
+  -
+
+* - "
+  - Dec. 10 1838
+  - 23248
+  - 23248
+  -
+  -
+  -
+  -
+
+* -
+  - July 6 184[7?]
+  - 26075
+  - 26075
+  -
+  -
+  -
+  -
 ```
 
 ## Citation
