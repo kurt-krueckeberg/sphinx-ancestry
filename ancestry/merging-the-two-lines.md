@@ -53,7 +53,7 @@ that also help to confirm the identity of Johann Heinrich like the
 Heinrich, as well as add other important details.
 
 TODO: We know his full name is not given in {external+nla:doc}`case file
-689 <689/index>`, but his late father is described as owning money to Hempel and Sons,
+689 <689/intro>`, but his late father is described as owning money to Hempel and Sons,
 a leather goods store…​.
 
 ## How no. 18 Berenbusch Connects Johann Heinrich and Carl Friedrich
