@@ -8,10 +8,8 @@ church ceremonies involving him, his wife and his children. We are also
 provided the name of the parish, Petzen.
 
 We likewise know the same information about Carl Friedrichm Krückeberg
-from the ["family record of the
-emigrant Carl Friedrich Krückeberg"](../derived-church-records/FS-CFK.md). We also have the Immanuel Lutheran
-{external+immanuel:doc}`biography of his son, Carl
-Heinrich Wilhelm <immanuel/DEC-BIO-Krueckeberg-02>`, who was 15 when he arrived in the U.S.
+from the [family record of the emigrant Carl Friedrich Krückeberg](../derived-church-records/FS-CFK.md). We also have the Immanuel Lutheran
+{external+immanuel:doc}`biography of his son, Carl Heinrich Wilhelm <immanuel/DEC-BIO-Krueckeberg-02>`, who was 15 when he arrived in the U.S.
 
 Using these document we can construct the family of origin of both Johann Heinrich
 and Carl Friedrich Krückebergusing the Petzen church records.
@@ -19,8 +17,7 @@ and Carl Friedrich Krückebergusing the Petzen church records.
 ## No. 10 Berenbusch Home of Johann Heinrich Krückeberg
 
 No. 10 Berenbusch is where the Jobst Heinrich Krückeberg family resided as
-shown by the numerous Petzen church register [records
-of his family members](jobst-hk-1765-events.md), all exclusively listing no. 10 Berenbusch as place where
+shown by the numerous Petzen church register [records of his family members](jobst-hk-1765-events.md), all exclusively listing no. 10 Berenbusch as place where
 they live.
 
 TODO: list all of the village/ort references here: Wohnorot, Dortschaften.
@@ -29,8 +26,7 @@ We know from case file [NLA BU, K 2, A Nr. 689]() denotated "200 Reichtsthaler..
 No. 10 Be
 
 It is also where the Colon Krückeberg lived who petitioned the Rentkammer
-to accept the {external+nla:doc}`sell his holding
-at no. 10 Berenbusch <139/krueckeberg-petition-to-sell>` explaining
+to accept the {external+nla:doc}`sell his holding at no. 10 Berenbusch <139/jh-krueckeberg-petition-to-sell>` explaining
 
 > Ich bin willens, meine Kolonie zu verkaufen und nach Amerika auszuwandern…​
 >
