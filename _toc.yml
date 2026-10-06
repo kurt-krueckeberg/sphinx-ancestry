@@ -2,7 +2,7 @@ format: jb-book
 root: index
 
 parts:
-  - caption: Ancestry
+  - caption: Krückeberg Ancestry
     chapters:
       - file: ancestry/index
       - file: ancestry/event-tables
@@ -27,7 +27,7 @@ parts:
           - file: ancestry/jhk-1744-events
       - file: ancestry/proof-arg-philippine-eleonore-werkmeister
 
-  - caption: Ancestry Studies
+  - caption: Case Studies
     chapters:
       - file: ancestry-studies/johann-heinrich-krueckeberg-identity-problem
       - file: ancestry-studies/soldier-weiland
