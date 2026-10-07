@@ -79,7 +79,7 @@ petitioned the Rentkammer to accept its sale to the buyer he had found, Wilhelm
 Meyer. See these documents:
 
 - {external+nla:doc}`nla:146:carl-fried-supplication-to-sell <146/carl-fried-supplication-to-sell>`
-- {external+nla:doc}`nla:188:abschrift-4386 <188/abschrift-4386>`.
+- {external+nla:doc}`nla:188:abschrift-4386 <188/doc1>`.
 
 Furthermore, in these documents Carl Friedrich the reason for the sale: he
 wants to emigrated in order to join "his relatives who are doing well":
