@@ -6,8 +6,7 @@ In 1849 the family of Johann Heinrich Krückeberg emigrated from the village of 
 and settled in Union township, Adams County, Indiana. The following year the family of Carl Friedrich Krückeberg
 also left Berenbusch and joined them in Union township.
 
-The trail of documentary evidence that reveals Berenbusch as the place of origin of these two Krückeberg families
-leads backs to two documents:
+Two documents revealed Berenbusch as the place of origin of these two Krückeberg families:
 
 - the {external+genealogy:doc}`family record of the immigrant Carl Friedrich Krückeberg <derived-church-records/FS-CFK>` ), typewritten copy; provenance unknown. Internal evidence shows Petzen parish certification by the acting pastor L. Schwerdtmann from Bergkirchen. My late father’s first cousin Melvin Krueckeberg supplied me a copy; he had received it from his (and my late father’s) first cousin, Harry Frederick Krueckeberg, who believes his late father prepared the typescript (per email)., and
 - the Immanuel Lutheran, Decatur Indiana, founder’s {external+immanuel:doc}`biography of Johann Heinrich Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>`Immanuel Lutheran Church (Decatur, Indiana), church register, 1850–1905, biographical entry for Johann Heinrich Krückeberg. The register was obtained on DVD directly from the church.
