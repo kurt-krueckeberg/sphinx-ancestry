@@ -8,7 +8,14 @@ also left Berenbusch and joined them in Union township.
 
 Two documents revealed Berenbusch as the place of origin of these two Krückeberg families:
 
-- the {external+genealogy:doc}`family record of the immigrant Carl Friedrich Krückeberg <derived-church-records/FS-CFK>` ), typewritten copy; provenance unknown. Internal evidence shows Petzen parish certification by the acting pastor L. Schwerdtmann from Bergkirchen. My late father’s first cousin Melvin Krueckeberg supplied me a copy; he had received it from his (and my late father’s) first cousin, Harry Frederick Krueckeberg, who believes his late father prepared the typescript (per email)., and
+- A typewirten copy of a document titled the
+  {external+genealogy:doc}`family record of the immigrant Carl Friedrich
+  Krückeberg <derived-church-records/FS-CFK>` ), It's provenance is unknown.
+  The document itself it was certified by the acting Petzen pastor L.
+  Schwerdtmann from Bergkirchen.  My late father’s first cousin Melvin
+  Krueckeberg supplied me a copy; he had received it from his and my late
+  father’s first cousin, Harry Frederick Krueckeberg, who believes his late
+  father prepared the typescript (per email)., and
 - the Immanuel Lutheran, Decatur Indiana, founder’s {external+immanuel:doc}`biography of Johann Heinrich Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>`Immanuel Lutheran Church (Decatur, Indiana), church register, 1850–1905, biographical entry for Johann Heinrich Krückeberg. The register was obtained on DVD directly from the church.
 
 The provenance of the first document is given in its opening sentence: "Laut Angabe des hiesigen Kirchenbuchs…​" (according to the local
