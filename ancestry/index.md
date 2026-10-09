@@ -25,8 +25,8 @@ church register). The parish village of **Petzen** is identified at the bottom o
 > Fürstentum Schaumburg Lippe.
 >
 > L. Schwerdtmann von Bergkirchen.
->
-> **English translation:**
+
+**English translation:**
 >
 > The foregoing statements are hereby certified as conforming to the local
 > church registers and are issued to the emigrants with best wishes for
@@ -40,7 +40,7 @@ church register). The parish village of **Petzen** is identified at the bottom o
 >
 > L. Schwerdtmann of Bergkirchen.
 >
-> --  translation of the 'family record of the emigrant Carl Friedrich Krückeberg'
+> --  translation of the bottom portion of the 'family record of the emigrant Carl Friedrich Krückeberg
 
 While the provenance of the biography is not given, both documents are
 strictly religous profiles composed soley from the contents of the Petzen
