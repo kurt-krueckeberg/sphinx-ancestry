@@ -49,7 +49,7 @@ unofficial index for the Petzen parish records they reference. This is
 extremely helpful because the Petzen parish registers contain neither an
 index nor a table of contents.
 
-## They were Verwandte (Relatives)
+## Their Family Relationship
 
 We know that Johann Heinrich Krückeberg, who immigrated to Adams CO Indiana
 in 1849, was related to Carl Friedrich Krückeberg, who arrived there the
