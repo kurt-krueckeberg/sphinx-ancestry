@@ -23,7 +23,7 @@ died 10/26/1870
 ```
 
 Since these Nacträge (addenda) reference earlier and later church record entries of the same individual,
-they eliminate the manually page-by-page, tome-consuming research of locating
+they eliminate the time-consuming research of manually locating
 these other records. Furthermore, by confirming an individual’s identity in earlier and later church
 records, the mental effort of separately confirming the individual’s common identity across these
 drecords is also eliminated.
