@@ -15,7 +15,7 @@ Two documents revealed Berenbusch as the place of origin of these two Krückeber
   Schwerdtmann from Bergkirchen. Melvin
   Krueckeberg, my first cousin once removed, gave me a copy. He had received it from Harry Frederick Krueckeberg, a first cousin of his and of my father. Harry told me (per email) his late
   father likely creared the typescript copy. 
-- The founder’s {external+immanuel:doc}`biography of Johann Heinrich Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` from the Immanuel Lutheran Church (Decatur, Indiana) church register for thevtime frame 1850-19??. TIFF images of the Immanuel Lutheran church register, 1850-19??, were obtained on DVD from the church with the help of Todd, Janet and Norma Krueckeberg.
+- The founder’s {external+immanuel:doc}`biography of Johann Heinrich Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` from the Immanuel Lutheran Church (Decatur, Indiana) church register for the time frame 1850-19??. TIFF images of the Immanuel Lutheran church register, 1850-19??, were obtained on DVD from the church with the help of Todd, Janet and Norma Krueckeberg.
 
 The original source for the information in the first document is given in its opening sentence: "Laut Angabe des hiesigen Kirchenbuchs…​" (according to the local
 church register). The parish village of **Petzen** is identified at the bottom of the document:
