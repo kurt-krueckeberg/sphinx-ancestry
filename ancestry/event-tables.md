@@ -4,7 +4,7 @@
 
 To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe,
 Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), the **event table** below is
-used to synthesize the Petzen parish records involving each generation of a Krückeberg family.
+synthesizes the Petzen parish records involving each generation of a Krückeberg family.
 
 Furthermore, some church register entires have very helpful **Nachträge** (addenda) that provide the
 dates of earlier and/or later church ceremonies involving the person. The {external+genealogy:doc}`1812 Philippine Caroline Christine Krückeberg Marriage <petzen/PET-M-1812b>`,
