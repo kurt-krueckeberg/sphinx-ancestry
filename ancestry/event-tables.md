@@ -7,7 +7,7 @@ Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 180
 synthesizes the Petzen parish records involving each generation of a Krückeberg family.
 
 Furthermore, some church register entires have very helpful **Nachträge** (addenda) that provide the
-dates of earlier and/or later church ceremonies involving the person. The {external+genealogy:doc}`1812 Philippine Caroline Christine Krückeberg Marriage <petzen/PET-M-1812b>`,
+dates of earlier or later church ceremonies involving the person. The {external+genealogy:doc}`1812 Philippine Caroline Christine Krückeberg Marriage <petzen/PET-M-1812b>`,
 for example, contains the date of her baptism, her future 2nd marriage and the date of her death:
 
 Addenda to marriage record of {external+genealogy:doc}`1812 Philippine Caroline Christine Krückeberg Marriage <petzen/PET-M-1812b>`
