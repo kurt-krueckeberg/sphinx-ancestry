@@ -48,7 +48,7 @@ church register). The parish village of **Petzen** is identified at the bottom o
 >
 > --  translation of the bottom portion of the 'family record of the emigrant Carl Friedrich Krückeberg
 
-While the provenance of the biography is not given, both documents are
+Both documents are
 strictly religous profiles composed soley from the contents of the Petzen
 church register records involving the family members. They serve as an
 unofficial index for the Petzen parish records they reference. This is
