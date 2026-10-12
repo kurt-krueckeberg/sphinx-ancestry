@@ -53,7 +53,7 @@ And it contains information concerning the:
 
 ## ✅ Why the Event Table Matters
 
-The **Event Table solves this** by letting us:
+The **Event Table lets us:
 
 - ✅ cluster events belonging to the same nuclear family
 - ✅ distinguish same-name individuals
