@@ -22,8 +22,8 @@ born 2/1/1792; 2nd marriage 5/11/1834
 died 10/26/1870
 ```
 
-These Nacträge (addenda) reference earlier and later church record entries of the same individual.
-Thus they can immediately eliminate the manually page-by-page research time consumed locating
+Since these Nacträge (addenda) reference earlier and later church record entries of the same individual,
+they eliminate the manually page-by-page, tome-consuming research of locating
 these other records. Furthermore, by confirming an individual’s identity in earlier and later church
 records, the mental effort of separately confirming the individual’s common identity across these
 drecords is also eliminated.
