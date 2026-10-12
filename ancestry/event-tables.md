@@ -26,7 +26,7 @@ Since these Nacträge (addenda) reference earlier and later church record entrie
 they eliminate the time-consuming research of manually locating
 these other records. Furthermore, by confirming an individual’s identity in earlier and later church
 records, the mental effort of separately confirming the individual’s common identity across these
-drecords is also eliminated.
+records is also eliminated.
 
 ## ✅ What the Event Table Is
 
