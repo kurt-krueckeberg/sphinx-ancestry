@@ -3,7 +3,7 @@
 ## ✅ Event and Nachträge Tables
 
 To help identify and document the ancestry of the two Krückeberg immigrants from Schaumburg-Lippe,
-Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), the **event table** below is
+Johann Heinrich Krückeberg (1806-1879) and Carl Friedrich Krückeberg (born 1807), the **event table** below
 synthesizes the Petzen parish records involving each generation of a Krückeberg family.
 
 Furthermore, some church register entires have very helpful **Nachträge** (addenda) that provide the
@@ -22,9 +22,9 @@ born 2/1/1792; 2nd marriage 5/11/1834
 died 10/26/1870
 ```
 
-Since these Nacträge (addenda) reference earlier and later church record entries of the same individual,
-they eliminate the time-consuming research of manually locating
-these other records. Furthermore, by confirming an individual’s identity in earlier and later church
+Since these Nachträge (addenda) reference earlier and later church record entries of the same individual,
+they eliminate the time consuming research of manually locating these other records. Furthermore, by
+confirming an individual’s identity in earlier and later church
 records, the mental effort of separately confirming the individual’s common identity across these
 records is also eliminated.
 
@@ -105,7 +105,7 @@ For Death / Burial events:
 - Place and time of death and burial are recorded in Notes
 - Residence / Village and No. columns remain blank unless the record explicitly states residence
 
-The table is chronologically ordered by Event Date. The following codes are used for each type of
+The table is chronologically ordered by **Event Date**. The following one or two-letter codes are used for each type of
 event:
 
 ```{list-table}
@@ -136,13 +136,12 @@ They link multiple church records to the same individual and confirm their ident
 
 ### Why the Nachträge is Important
 
-Nachträge are critical identity evidence. They confirm that the child baptized in a specific record is the same
-person who later:
+Nachträge are critical identity evidence because they confirm, say, that the child baptized in a specific record
+is the same person who later:
 
 - married on a particular date,
 - died in a particular year,
 - or underwent another recorded ceremony.
 
-Because these marginal notes link multiple life events to the same individual, they strengthen genealogical proof
-and prevent mistaken identity—especially in villages where names repeat across families.
-
+Because these marginal notes link multiple life events to the same individual, they prevent mistaken identity—especially
+in villages where names repeat across families.
