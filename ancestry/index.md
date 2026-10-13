@@ -8,8 +8,8 @@ also left Berenbusch and joined them in Union township.
 
 Two documents pin point Berenbusch as the place of origin of these two Krückeberg families:
 
-- A typewirten document titled the
-  {external+genealogy:doc}`family record of the immigrant Carl Friedrich
+- A typewirten document with the heading
+  {external+genealogy:doc}`Family Record of the Immigrant Carl Friedrich
   Krückeberg <derived-church-records/FS-CFK>` ), whose provenance is unknown.
   The document was certified by the acting Petzen pastor L.
   Schwerdtmann from Bergkirchen. Melvin
