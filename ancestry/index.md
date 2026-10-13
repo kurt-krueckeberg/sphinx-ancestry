@@ -8,7 +8,7 @@ also left Berenbusch and joined them in Union township.
 
 Two documents pinpoint Berenbusch as the place of origin of these two Krückeberg families:
 
-- A typewirten document with the heading
+- A typewritten document with the heading
   {external+genealogy:doc}`Family Record of the Immigrant Carl Friedrich
   Krückeberg <derived-church-records/FS-CFK>` ), whose provenance is unknown.
 - The biography of {external+immanuel:doc}`Johann Heinrich
@@ -19,18 +19,19 @@ TIFF images of the Immanuel Lutheran, Decature Indiana, church register,
 1850-1905, were obtained on DVD from the church with the help of Todd,
 Janet and Norma Krueckeberg.
 
-The {external+genealogy:doc}`family record of the immigrant Carl Friedrich Krückeberg <derived-church-records/FS-CFK>`
-was certified by the acting Petzen pastor L. Schwerdtmann from
-Bergkirchen. I received a copy of it  several years ago from Melvin
-Krueckeberg, my first cousin once removed. He had received it from Harry
-Frederick Krueckeberg, a first cousin of his and of my father. Harry told
-me (per email) he believed his father likely created the typescript copy
-from an unknown source. 
+I received a copy of the family certificate of the immigrant Carl Friedrich
+Krückeberg several years ago from Melvin Krueckeberg, my first cousin once
+removed. He had received it from Harry Frederick Krueckeberg, a first
+cousin of his and of my father. Harry told me (per email) he believed his
+father likely created the typescript copy from an unknown source. 
 
-The original source for the information in the first document is given in
-its opening sentence: "Laut Angabe des hiesigen Kirchenbuchs…​"
-(according to the local church register). The parish village of **Petzen**
-is identified at the bottom of the document:
+The {external+genealogy:doc}`family record of the immigrant Carl Friedrich
+Krückeberg <derived-church-records/FS-CFK>` was certified by the acting
+Petzen pastor L. Schwerdtmann from Bergkirchen.  The original source for
+the information in the first document is given in its opening sentence:
+"Laut Angabe des hiesigen Kirchenbuchs…​" (according to the local
+church register). The parish village of **Petzen** is identified at the
+bottom of the document:
 
 > Die Übereinstimmung vorstehender Angaben mit den hiesigen
 > Kirchenbüchern bescheinigt den Auswanderern unter Anwuenschung
