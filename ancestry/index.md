@@ -3,7 +3,7 @@
 ## Where the Documentary Evidence Begins
 
 In 1849 the family of Johann Heinrich Krückeberg emigrated from the village of Berenbusch, Schaumburg-Lippe,
-and settled in Union township, Adams County, Indiana. The following year the family of Carl Friedrich Krückeberg
+and settled in Union township, Adams County, Indiana. The following year the Carl Friedrich Krückeberg family
 also left Berenbusch and joined them in Union township.
 
 Two documents revealed Berenbusch as the place of origin of these two Krückeberg families:
