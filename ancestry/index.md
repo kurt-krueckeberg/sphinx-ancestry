@@ -10,10 +10,11 @@ Two documents pinpoint Berenbusch as the place of origin of these two Krückeber
 
 - A typewritten document with the heading
   {external+genealogy:doc}`Family Record of the Immigrant Carl Friedrich
-  Krückeberg <derived-church-records/FS-CFK>`[^family-record], whose original source is unknown.
+  Krückeberg <derived-church-records/FS-CFK>`, whose original source is
+  unknown.[^fs-cfk]
 - The biography of {external+immanuel:doc}`Johann Heinrich
   Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` found in the Immanuel Lutheran
-  Church (Decatur, Indiana) church register, 1850-1905.[^immanuel-register]
+  Church (Decatur, Indiana) church register, 1850-1905.[^immanuel]
 
 The {external+genealogy:doc}`family record of the immigrant Carl Friedrich
 Krückeberg <derived-church-records/FS-CFK>` was certified by the acting
@@ -75,18 +76,18 @@ requesting to {external+nla:doc}`sell his holding at no. 18 Berenbusch
 >
 > --  Carl Friedrich request of Rentkammer to approval sale of his holding
 
-[^family-record]: “Family Record of the Immigrant Carl Friedrich Krückeberg,”
-    typescript copy of a family record certified at Petzen, Schaumburg-Lippe,
-    23 September 1850; privately held by Kurt Krueckeberg, Fort Wayne, Indiana.
-    Kurt Krueckeberg received the copy from his first cousin once removed,
-    Melvin Krueckeberg, who had received it from Harry Frederick Krueckeberg,
-    a first cousin of Melvin and of Kurt's father. Harry stated in an email
-    that he believed his father had prepared the typescript from an unknown
-    source. The underlying source and the typescript's authorship remain
-    unverified.
+[^fs-cfk]: "Family Record of the Immigrant Carl Friedrich Krückeberg,"
+    undated typescript copy of a family record certified by L. Schwerdtmann,
+    acting pastor, Petzen, Schaumburg-Lippe, 23 September 1850; privately held
+    by Kurt Krueckeberg, Fort Wayne, Indiana, 2026. The
+    typescript passed from Harry Frederick Krueckeberg to Melvin Krueckeberg,
+    who gave a copy to Kurt Krueckeberg in [YEAR]. Harry Frederick Krueckeberg
+    to Kurt Krueckeberg, e-mail, [DATE], stated his belief that his father made
+    the typescript from an unidentified original.
 
-[^immanuel-register]: Immanuel Lutheran Church (Decatur, Indiana),
-    church register, 1850–1905, biography of Johann Heinrich Krückeberg;
-    TIFF digital images on DVD, privately held by Kurt Krueckeberg,
-    Fort Wayne, Indiana. Images obtained from the church with the
-    assistance of Todd, Janet, and Norma Krueckeberg.
+[^immanuel]: Immanuel Lutheran Church (Decatur, Indiana), church register,
+    1850-1905, p. [PAGE], biography of Johann Heinrich Krückeberg; digital
+    images (TIFF) on DVD, obtained from the church in [YEAR] with the help of
+    Todd, Janet, and Norma Krueckeberg; privately held by Kurt Krueckeberg,
+    [ADDRESS FOR PRIVATE USE,] Fort Wayne, Indiana, 2026. The original register
+    is held by Immanuel Lutheran Church, Decatur, Indiana.
