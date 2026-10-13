@@ -14,7 +14,7 @@ Two documents pin point Berenbusch as the place of origin of these two Krückebe
   The document was certified by the acting Petzen pastor L.
   Schwerdtmann from Bergkirchen. Melvin
   Krueckeberg, my first cousin once removed, gave me a copy several years ago. He had received it from Harry Frederick Krueckeberg, a first cousin of his and of my father. Harry told me (per email) his late
-  father likely creared the typescript copy. 
+  father likely created the typescript copy from an unkown source. 
 - The founder’s {external+immanuel:doc}`biography of Johann Heinrich Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` from the Immanuel Lutheran Church (Decatur, Indiana) church register for the time frame 1850-19??. TIFF images of the Immanuel Lutheran church register, 1850-19??, were obtained on DVD from the church with the help of Todd, Janet and Norma Krueckeberg.
 
 The original source for the information in the first document is given in its opening sentence: "Laut Angabe des hiesigen Kirchenbuchs…​" (according to the local
