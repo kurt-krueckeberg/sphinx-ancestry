@@ -61,7 +61,7 @@ registers contain neither an index nor a table of contents.
 We know that Johann Heinrich Krückeberg, who immigrated to Adams CO Indiana
 in 1849, was related to Carl Friedrich Krückeberg, who arrived there the
 next year, because he tell us so. While there are many clues to their
-familial relationship in the Petzen church registers's records, we can quote Carl
+familial relationship in the records of the Petzen church registers, we can quote Carl
 Friedrich Krückeberg himself on this topic. When he petitioned the
 Schaumburg-Lippe Rentkammer (fiscal chamber), on September 11, 1850,
 requesting to {external+nla:doc}`sell his holding at no. 18 Berenbusch
