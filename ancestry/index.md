@@ -6,7 +6,7 @@ In 1849 the family of Johann Heinrich Krückeberg emigrated from the village of 
 and settled in Union township, Adams County, Indiana. The following year the Carl Friedrich Krückeberg family
 also left Berenbusch and joined them in Union township.
 
-Two documents pin point Berenbusch as the place of origin of these two Krückeberg families:
+Two documents pinpoint Berenbusch as the place of origin of these two Krückeberg families:
 
 - A typewirten document with the heading
   {external+genealogy:doc}`Family Record of the Immigrant Carl Friedrich
