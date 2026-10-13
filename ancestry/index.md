@@ -49,8 +49,6 @@ bottom of the document:
 > Principality of Schaumburg-Lippe.
 >
 > L. Schwerdtmann of Bergkirchen.
->
-> --  translation of the bottom portion of the 'family record of the emigrant Carl Friedrich Krückeberg
 
 Both documents are strictly religous profiles composed soley from the
 contents of the Petzen church register records involving the family
