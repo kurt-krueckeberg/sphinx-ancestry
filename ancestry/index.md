@@ -74,9 +74,9 @@ in 1849, was related to Carl Friedrich Krückeberg, who arrived there the
 next year, because he tell us so. While there are many clues to their
 familial relationship in the Petzen church records, we can quote Carl
 Friedrich Krückeberg himself on this topic. When he petitioned the
-Schaumburg-Lippe Rentkammer requesting to
-{external+nla:doc}`sell
-his holding at no. 18 Berenbusch <146/carl-fried-supplication-to-sell>`, he wrote:
+Schaumburg-Lippe Rentkammer (fiscal chamber), on September 11, 1850,
+requesting to {external+nla:doc}`sell his holding at no. 18 Berenbusch
+<146/carl-fried-supplication-to-sell>`, he wrote:
 
 > As I intend to emigrate to America with my entire family, **where several
 > relatives of mine already reside** and are doing quite well, I have sold my
