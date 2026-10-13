@@ -87,5 +87,5 @@ requesting to {external+nla:doc}`sell his holding at no. 18 Berenbusch
     1850-1905, p. [PAGE], biography of Johann Heinrich Krückeberg; digital
     images (TIFF) on DVD, obtained from the church in [YEAR] with the help of
     Todd, Janet, and Norma Krueckeberg; privately held by Kurt Krueckeberg,
-    [ADDRESS FOR PRIVATE USE,] Fort Wayne, Indiana, 2026. The original register
+Fort Wayne, Indiana, 2026. The original register
     is held by Immanuel Lutheran Church, Decatur, Indiana.
