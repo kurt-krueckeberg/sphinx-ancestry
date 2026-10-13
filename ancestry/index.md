@@ -19,7 +19,7 @@ Two documents pinpoint Berenbusch as the place of origin of these two Krückeber
 The {external+genealogy:doc}`family record of the immigrant Carl Friedrich
 Krückeberg <derived-church-records/FS-CFK>` was certified by the acting
 Petzen pastor L. Schwerdtmann from Bergkirchen.  The original source for
-the information in the first document is given in its opening sentence:
+the information is given in its opening sentence:
 "Laut Angabe des hiesigen Kirchenbuchs…​" (according to the local
 church register). The parish village of **Petzen** is identified at the
 bottom of the document:
