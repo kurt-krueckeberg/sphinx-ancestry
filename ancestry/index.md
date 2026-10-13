@@ -11,7 +11,7 @@ Two documents pinpoint Berenbusch as the place of origin of these two Krückeber
 - A typewirten document with the heading
   {external+genealogy:doc}`Family Record of the Immigrant Carl Friedrich
   Krückeberg <derived-church-records/FS-CFK>` ), whose provenance is unknown.
-- The founder’s {external+immanuel:doc}`biography of Johann Heinrich
+- The founder’s biography of {external+immanuel:doc}`Johann Heinrich
   Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` from the Immanuel Lutheran
   Church (Decatur, Indiana) church register, 1850-1905.
 
