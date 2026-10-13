@@ -8,7 +8,7 @@ also left Berenbusch and joined them in Union township.
 
 Two documents pin point Berenbusch as the place of origin of these two Krückeberg families:
 
-- A typewirten copy of a document titled the
+- A typewirten document titled the
   {external+genealogy:doc}`family record of the immigrant Carl Friedrich
   Krückeberg <derived-church-records/FS-CFK>` ), whose provenance is unknown.
   The document was certified by the acting Petzen pastor L.
