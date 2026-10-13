@@ -11,14 +11,26 @@ Two documents pin point Berenbusch as the place of origin of these two Krückebe
 - A typewirten document with the heading
   {external+genealogy:doc}`Family Record of the Immigrant Carl Friedrich
   Krückeberg <derived-church-records/FS-CFK>` ), whose provenance is unknown.
-  The document was certified by the acting Petzen pastor L.
-  Schwerdtmann from Bergkirchen. Melvin
-  Krueckeberg, my first cousin once removed, gave me a copy several years ago. He had received it from Harry Frederick Krueckeberg, a first cousin of his and of my father. Harry told me (per email) his late
-  father likely created the typescript copy from an unkown source. 
-- The founder’s {external+immanuel:doc}`biography of Johann Heinrich Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` from the Immanuel Lutheran Church (Decatur, Indiana) church register for the time period 1850-19??. TIFF images of the Immanuel Lutheran church register, 1850-19??, were obtained on DVD from the church with the help of Todd, Janet and Norma Krueckeberg.
+- The founder’s {external+immanuel:doc}`biography of Johann Heinrich
+  Krückeberg <immanuel/DEC-BIO-Krueckeberg-01>` from the Immanuel Lutheran
+  Church (Decatur, Indiana) church register, 1850-1905.
 
-The original source for the information in the first document is given in its opening sentence: "Laut Angabe des hiesigen Kirchenbuchs…​" (according to the local
-church register). The parish village of **Petzen** is identified at the bottom of the document:
+TIFF images of the Immanuel Lutheran, Decature Indiana, church register,
+1850-1905, were obtained on DVD from the church with the help of Todd,
+Janet and Norma Krueckeberg.
+
+The {external+genealogy:doc}`family record of the immigrant Carl Friedrich Krückeberg <derived-church-records/FS-CFK>`
+was certified by the acting Petzen pastor L. Schwerdtmann from
+Bergkirchen. I received a copy of it  several years ago from Melvin
+Krueckeberg, my first cousin once removed. He had received it from Harry
+Frederick Krueckeberg, a first cousin of his and of my father. Harry told
+me (per email) he believed his father likely created the typescript copy
+from an unknown source. 
+
+The original source for the information in the first document is given in
+its opening sentence: "Laut Angabe des hiesigen Kirchenbuchs…​"
+(according to the local church register). The parish village of **Petzen**
+is identified at the bottom of the document:
 
 > Die Übereinstimmung vorstehender Angaben mit den hiesigen
 > Kirchenbüchern bescheinigt den Auswanderern unter Anwuenschung
@@ -48,12 +60,11 @@ church register). The parish village of **Petzen** is identified at the bottom o
 >
 > --  translation of the bottom portion of the 'family record of the emigrant Carl Friedrich Krückeberg
 
-Both documents are
-strictly religous profiles composed soley from the contents of the Petzen
-church register records involving the family members. They serve as an
-unofficial index for the Petzen parish records they reference. This is
-extremely helpful because the Petzen parish registers contain neither an
-index nor a table of contents.
+Both documents are strictly religous profiles composed soley from the
+contents of the Petzen church register records involving the family
+members. They serve as an unofficial index for the Petzen parish records
+they reference. This is extremely helpful because the Petzen parish
+registers contain neither an index nor a table of contents.
 
 ## Their Family Relationship
 
