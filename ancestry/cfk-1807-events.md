@@ -24,7 +24,7 @@ This event table is based exclusively on the information found in the
   - **D**
 ```
 
-### Derived Record Event Table for Carl Friedrich Krückeberg Family
+### Derived-Records Event Table for Carl Friedrich Krückeberg Family
 
 ```{list-table} Derived Record Event Table for Carl Friedrich Krückeberg Family
 :header-rows: 1

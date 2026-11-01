@@ -1,6 +1,6 @@
 # Luise Dorothee Weiland Event Tables
 
-## Derived Records Event Table for Family of Carl Friedrich Krückeberg
+## Derived-Records Event Table for Family of Carl Friedrich Krückeberg
 
 The event table is based on two derived records:
 
