@@ -102,3 +102,43 @@ img.image-override,
 .no-zebra-rowspan-table tbody th {
   background-color: transparent !important;
 }
+
+
+/* Enables extra wide content when hamburger menu is clicked that removes the
+   navigation pane by letting the page use the full browser width */
+
+.bd-page-width {
+  max-width: 100%;
+}
+
+/* Remove the cap on the width of the main article column */
+.bd-main .bd-content .bd-article-container {
+  max-width: 100%;
+}
+
+/* Trim the side padding around the article */
+.bd-article-container {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* If a table is still too wide, scroll it sideways instead of cutting it off */
+.bd-article table {
+  display: block;
+  overflow-x: auto;
+}
+
+/* Make the leftt navigation pane narrower (desktop widths only) */
+@media (min-width: 960px) {
+  .bd-sidebar-primary {
+    flex: 0 0 250px;
+    width: 250px;
+    min-width: 250px;
+    max-width: 250px;
+  }
+}
+/* remove right-hand pane, too
+.bd-sidebar-secondary {
+  display: none;
+}
+*/
