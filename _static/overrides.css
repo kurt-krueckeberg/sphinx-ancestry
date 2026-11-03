@@ -129,12 +129,17 @@ img.image-override,
 }
 
 /* Make the leftt navigation pane narrower (desktop widths only) */
-@media (min-width: 960px) {
+@media (min-width: 992px) {
   .bd-sidebar-primary {
     flex: 0 0 250px;
     width: 250px;
     min-width: 250px;
     max-width: 250px;
+  }
+   /* When the hamburger hides the pane, slide it off by exactly its own width */
+  .bd-sidebar-primary.pst-sidebar-hidden,
+  input#pst-primary-sidebar-checkbox:checked ~ .bd-container .bd-sidebar-primary {
+    margin-left: -250px;
   }
 }
 /* remove right-hand pane, too
