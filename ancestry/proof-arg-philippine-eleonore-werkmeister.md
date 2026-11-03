@@ -227,9 +227,9 @@ An addendum below this entry states: **“get. 4.5.83”** (baptized 4 May 1783)
   ```
   Key finding: The only baptism recorded in the Petzen parish on May 4, 1783, was of **Philipina Eleonore Werkmeister**, whose family
 resided at **No. 11 Evesen**.
-6. [Familienschein (Family Certificate)](../families/krueckeberg.md)
-Lists the mother as **Philippine Leonore, geb. Bleeken, von N. 11 in Evesen**.
-This is a derivative summary reflecting the inconsistent primary records.
+6. {external+genealogy:doc}`Familienschein (Family Certificate) <derived-church-records/FS-CFK>`.
+   Lists the mother as **Philippine Leonore, geb. Bleeken, von N. 11 in Evesen**.
+   This is a derivative summary reflecting the inconsistent primary records.
 
 ## Negative Evidence and Absence of Conflicting Facts
 

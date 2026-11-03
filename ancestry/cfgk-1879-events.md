@@ -1,5 +1,15 @@
 # Carl Friedrich Gottlieb Krückeberg (1879-1838) Family Events
 
+To make sense of these recorded church events, it's necessary to understand the
+significance of certain terms found in the records.
+
+**TODO:** Read:
+
+- [Background History of Schaumburg-Lippe](https://chatgpt.com/share/6aea106d-5a0c-83e9-853a-9d47211ec0ed)
+- `{doc} Meierrecht and Anerbenrecht <laws/laws>`.
+
+## The Meierrecht and Anerbenrecht
+
 (event-table-petzen-cfg-krueckeberg-family)=
 ## Event Table for the Carl Friedrich Gottlieb Krückeberg Family
 

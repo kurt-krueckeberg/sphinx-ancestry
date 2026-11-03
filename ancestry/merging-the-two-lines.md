@@ -21,9 +21,9 @@ No. 10 Berenbusch is where the Jobst Heinrich Krückeberg family resided as
 shown by the numerous Petzen church register [records of his family members](jobst-hk-1765-events.md), all exclusively listing no. 10 Berenbusch as place where
 they live.
 
-TODO: list all of the village/ort references here: Wohnorot, Dortschaften.
+TODO: list all of the village/ort references here: Wohnort, Dortschaften.
 
-We know from case file [NLA BU, K 2, A Nr. 689]() denotated "200 Reichtsthaler.. "
+We know from case file {external+nla:doc}`A capital sum of 200 Reichsthaler courant loaned from the chamber treasury to the Colon Krückeberg No. 10 in Berenbusch (1841-1845) <689/intro>` denotated "200 Reichtsthaler.. "
 No. 10 Be
 
 It is also where the Colon Krückeberg lived who petitioned the Rentkammer
